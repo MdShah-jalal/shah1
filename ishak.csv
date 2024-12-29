@@ -1,0 +1,1485 @@
+id,name,dp_price,mrp_price,group_name,available_stock
+11,R-Elite Jug,170,0,Premium,100
+12,R-Samira Square Jug,175,0,Premium,100
+13,R Apple Jug,130,0,Premium,100
+14,R Lotus Jug 1.5L,215,0,Premium,100
+15,R-Fish Washing Net Big Jali,45,0,Premium,100
+16,R Fish Washing Net Medium Jali,33,0,Premium,100
+17,R Fish Washing Net Small Jali,30,0,Premium,100
+18,R RTG Mosolla-dani,110,0,Premium,100
+19,R- Dish Rack,355,0,Premium,100
+20,R- 34cm Cutting Board,165,0,Premium,100
+21,R- 25cm Cutting Board,75,0,Premium,100
+22,R- Tulip Cutlery,50,0,Premium,100
+23,R- Big Dala,155,0,Premium,100
+24,R- Medium Dala,105,0,Premium,100
+25,R- Small Dala,65,0,Premium,100
+26,R- Easy Piller,40,0,Premium,100
+27,R- Frence Salt-jar,80,0,Premium,100
+28,R- 500ml Handy Sauce Can,32,0,Premium,100
+29,R- 250ml sauce-can,22,0,Premium,100
+30,R- 1L Sauce-can,60,0,Premium,100
+31,R- Square Glass Stand,70,0,Premium,100
+32,R- Flower Glass Stand,80,0,Premium,100
+33,R- H2O Bottle,153,0,Premium,100
+34,R- Prisom Bottle,58,0,Premium,100
+35,R- Boxing Bottle,74,0,Premium,100
+36,R- Snacks Box,52,0,Premium,1
+37,R- 600ml orkid jar,32,0,Premium,1
+38,R- 1.3L orkid jar,68,0,Premium,1
+39,R- 1.6L orkid jar,70,0,Premium,1
+40,R- 2L orkid jar,72,0,Premium,1
+41,R- 2.5L orkid jar,74,0,Premium,1
+42,R- 200mL Konical jar,20,0,Premium,1
+43,R- 600mL Konical jar,32,0,Premium,1
+44,R- Kulfi Ice Maker,56,0,Premium,1
+45,R- High Net Tool,220,0,Premium,1
+46,R- Beauty Tool (R/B),83,0,Premium,1
+47,R- Beauty Tool (TG),72,0,Premium,1
+48,R- Easy Tool (R/B),120,0,Premium,1
+49,R- Easy Tool (P Green),120,0,Premium,1
+50,R- Easy Tool (T Green),95,0,Premium,1
+51,R- Pre Medium Tool  (R/B),160,0,Premium,1
+52,R- Pre Medium Tool  (TG),130,0,Premium,1
+53,R- Nobabi Baby Chair,180,0,Premium,1
+54,R- Rabbit Potty,270,0,Premium,1
+55,R- Star Potty,290,0,Premium,1
+56,R- Premium Potty,325,0,Premium,1
+57,R- Small Nimo Bathtop,470,0,Premium,1
+58,R- Big Nimo Bathtop,526,0,Premium,1
+59,R- Baby Rocker,485,0,Premium,1
+60,R- 4 drawer Mini Organizer,230,0,Premium,1
+61,R- Corner Rack,500,0,Premium,1
+62,R- Beauty Rack,465,0,Premium,1
+63,R- 2 Color Beauty Rack,465,0,Premium,1
+64,R- Cain Fence Rack,875,0,Premium,1
+65,R- Round Mini Rack,120,0,Premium,1
+66,R- 4 Step Modern kitchen Rack,1160,0,Premium,1
+67,R- 5 Step Premium kitchen Rack- Double Tray,1720,0,Premium,100
+68,R- Modern Show Rack,720,0,Premium,1
+69,R- Lid Mug,34,0,Premium,100
+70,R- 1.5L Diamond Mug,25,0,Premium,1
+71,R- 2L Diamond Mug,32,0,Premium,1
+72,R- 3L Design (R/B) Jug ,72,0,Premium,1
+73,R- 3L Tulip Jug ,80,0,Premium,1
+74,R- 6L Tulip Container,100,0,Premium,100
+75,R- 8L Tulip Container,120,0,Premium,100
+76,R- 12L Tulip Container,165,0,Premium,100
+77,R- 16L Tulip Container,215,0,Premium,100
+78,R- 20L Tulip Container,260,0,Premium,100
+79,R- 20L Multi Container Loose,266,0,Premium,100
+80,R- 12L Container Set,440,0,Premium,100
+81,R- 16L Container Set,575,0,Premium,100
+82,R-  Flora Container Set,150,0,Premium,100
+83,R-  800ml Flora Container,68,0,Premium,100
+84,R-  400ml Flora Container,45,0,Premium,100
+85,R-  1500ml Flora Container,83,0,Premium,100
+86,R-  2300ml Flora Container,125,0,Premium,100
+87,R-  3.5L Spring Container,70,0,Premium,100
+88,R-  Big File Tray,75,0,Premium,100
+89,R-  Small File Tray,52,0,Premium,100
+90,R-  Big Fruit Busket,48,0,Premium,100
+91,R-  Small Fruit Busket,38,0,Premium,100
+92,R-  Modern Paper Busket,62,0,Premium,100
+93,R- Caino Oval Busket,660,0,Premium,100
+94,R- Super Paddle Bin,285,0,Premium,100
+95,R- 800 Fanel,32,0,Premium,100
+96,R- 500 Fanel,25,0,Premium,100
+97,R- 300 Fanel,18,0,Premium,100
+98,R- 8L Cargo Box,210,0,Premium,100
+99,R- 15L Cargo Box,320,0,Premium,100
+100,R- 30L Cargo Box,526,0,Premium,100
+101,R- 50L Cargo Box,710,0,Premium,100
+102,R- 80L Cargo Box,990,0,Premium,100
+103,R- 120L Cargo Box,1550,0,Premium,100
+104,R- 70L Cargo Box,850,0,Premium,100
+105,R- 110L Cargo Box,1450,0,Premium,100
+106,R- 180L Cargo Box,2000,0,Premium,100
+107,R- Classic Hanger,130,0,Premium,100
+108,R- Light Hanger - 1D,130,0,Premium,100
+109,R- Bonolota Mug,34,0,Premium,100
+110,R- Stand Bank,76,0,Premium,100
+111,R- 250ml Sauce Can,22,0,Premium,100
+112,R- 1L Sauce Can,60,0,Premium,100
+113,R- 2.50L Green Bodna,52,0,Premium,100
+114,R- 2.50L Red Bodna,45,0,Premium,100
+115,R- 4L Gallon,76,0,Premium,100
+116,R- 5L Gallon,100,0,Premium,100
+117,R- 7L Gallon,130,0,Premium,100
+118,R- 10L Gallon,172,0,Premium,100
+119,R- 15L Gallon,200,0,Premium,100
+120,R- 20L Gallon,285,0,Premium,100
+121,R- 25L Gallon,385,0,Premium,100
+122,R- Time Mug,36,0,Premium,100
+123,R- Kapor Brush,24,0,Premium,100
+124,R- 30L Drum,335,0,Premium,100
+125,R- 40L Drum,420,0,Premium,100
+126,R- 50L Drum,545,0,Premium,100
+127,R- 60L Drum,646,0,Premium,100
+128,R- 70L Drum,740,0,Premium,100
+129,R- 80L Drum,840,0,Premium,100
+130,R- 90L Drum,900,0,Premium,100
+131,R- 100L Drum,1025,0,Premium,100
+132,R- 35L Design Bowl,335,0,Premium,100
+133,R- 28L Design Bowl,285,0,Premium,100
+134,R- 25L Design Bowl,260,0,Premium,100
+135,R- 21L Design Bowl,175,0,Premium,100
+136,R- 18L Design Bowl,155,0,Premium,100
+137,R- 15L Design Bowl,140,0,Premium,100
+138,R- 10L Design Bowl,105,0,Premium,100
+139,R- 8L Design Bowl,88,0,Premium,100
+140,R- 5L Design Bowl,60,0,Premium,100
+141,R- 3L Design Bowl,40,0,Premium,100
+142,R- 3L Design Bucket (Balti),42,0,Premium,100
+143,R- 5L Design Bucket (Balti),65,0,Premium,100
+144,R- 8L Design Bucket (Balti),88,0,Premium,100
+145,R- 10L Design Bucket (Balti),108,0,Premium,100
+146,R- 12L Design Bucket (Balti),130,0,Premium,100
+147,R- 16L Design Bucket (Balti),155,0,Premium,100
+148,R- 18L Design Bucket (Balti),185,0,Premium,100
+149,R- 20L Design Bucket (Balti),195,0,Premium,100
+150,R- 25L Design Bucket (Balti),240,0,Premium,100
+151,R- 30L Design Bucket (Balti),260,0,Premium,100
+152,R- 35L Design Bucket (Balti),345,0,Premium,100
+153,R- 35L Design Lid Bucket (Dakna-Balti),425,0,Premium,100
+154,R- 30L Design Lid Bucket (Dakna-Balti),336,0,Premium,100
+155,R- 25L Design Lid Bucket (Dakna-Balti),305,0,Premium,100
+156,R- 20L Design Lid Bucket (Dakna-Balti),255,0,Premium,100
+157,R- 18L Design Lid Bucket (Dakna-Balti),237,0,Premium,100
+158,R- 16L Design Lid Bucket (Dakna-Balti),205,0,Premium,100
+159,R- 12L Design Lid Bucket (Dakna-Balti),168,0,Premium,100
+160,R- 10L Design Lid Bucket (Dakna-Balti),144,0,Premium,100
+161,R- 8L Design Lid Bucket (Dakna-Balti),123,0,Premium,100
+162,R- 5L Design Lid Bucket (Dakna-Balti),85,0,Premium,100
+163,R- 3L Design Lid Bucket (Dakna-Balti),54,0,Premium,100
+164,R- 3L Super Bowl,40,0,Prestige,1
+165,R- 5L Super Bowl,60,0,Prestige,1
+166,R- 8L Super Bowl,88,0,Prestige,1
+167,R- 10L Super Bowl,105,0,Prestige,1
+168,R- 15L Super Bowl,140,0,Prestige,1
+169,R- 18L Super Bowl,175,0,Prestige,1
+170,R- 20L Super Bowl,185,0,Prestige,1
+171,R- 25L Super Bowl,250,0,Prestige,1
+172,R- 30L Super Bowl,285,0,Prestige,1
+173,R- Spice Jar Big,62,0,Prestige,1
+174,R- Spice Jar Medium,48,0,Prestige,1
+175,R- Spice Jar Small,34,0,Prestige,1
+176,R- Deluxe Organizer,650,0,Prestige,1
+177,R- Unique Jug,80,0,Prestige,1
+178,R- President Tool Small,88,0,Prestige,100
+179,R- Medium President Tool,130,0,Prestige,100
+180,R- ABC Baby Chair,185,0,Prestige,100
+181,R- Banni Potty,325,0,Prestige,100
+182,R- Hello Bathtub Big,385,0,Prestige,100
+183,R- Hello Bathtub Small,290,0,Prestige,100
+184,R- Super Rack,495,0,Prestige,100
+185,R- Super Bucket (Balti) 4L ,50,0,Prestige,100
+186,R- Super Bucket (Balti) 8L ,85,0,Prestige,100
+187,R- Super Bucket (Balti) 10L ,100,0,Prestige,100
+188,R- Super Bucket (Balti) 12L ,120,0,Prestige,100
+189,R- Super Bucket (Balti) 15L ,130,0,Prestige,100
+190,R- Super Bucket (Balti) 20L ,185,0,Prestige,100
+191,R- Super Bucket (Balti) 25L ,210,0,Prestige,100
+192,R- Super Bucket (Balti) 30L ,260,0,Prestige,100
+193,R- Mother Touch Mum Pot ,45,0,Prestige,100
+194,R- Babul Mug ,40,0,Prestige,100
+195,R- Net Jali 56cm,165,0,Prestige,100
+196,R- Net Jali 48cm,120,0,Prestige,100
+197,R- Net Jali 42cm,88,0,Prestige,100
+198,R- Net Jali 37cm,62,0,Prestige,100
+199,R- Net Jali 34x33cm,50,0,Prestige,100
+200,R- Net Jali 30cm,44,0,Prestige,100
+201,R- Net Jali 28cm,38,0,Prestige,100
+202,R- Deer Potty ,260,0,Prestige,100
+203,R- Tulip Rack,696,0,Prestige,100
+204,R- 3.5L Cosmos Jug,83,0,Prestige,100
+205,R- 3.5L Cherry Jug,80,0,Prestige,100
+206,R- Hat Pakha ,32,0,Prestige,100
+207,R- Kula Big ,83,0,Prestige,100
+208,R- Kula Small,58,0,Prestige,100
+209,R- Mota Cutting Board,240,0,Prestige,100
+210,R- Lotus Salt Jar,57,0,Prestige,100
+211,R- Jol Kanda,22,0,Prestige,100
+212,R- 450 Marlo Bottle,100,0,Prestige,100
+213,R- Marbel Bottle 450ml,70,0,Prestige,100
+214,R- Marbel Bottle 550ml,75,0,Prestige,100
+215,R- Marbel Bottle 650ml,80,0,Prestige,100
+216,R- Cute Bottle 200ml,60,0,Prestige,100
+217,R- Cute Bottle 400ml,70,0,Prestige,100
+218,R- 3P Container Set,140,0,Prestige,100
+219,R- Dust Busket Medium,76,0,Prestige,100
+220,R- Family Busket ,375,0,Prestige,100
+221,R- Dust Pan (Belcha) Big,40,0,Prestige,100
+222,R- Dust Pan (Belcha) Small,25,0,Prestige,100
+223,R- Slim Dust Pan (Belcha),22,0,Prestige,100
+224,R- Elegant Dust Pan (Belcha),32,0,Prestige,100
+225,R- Square Medicine Box,100,0,Prestige,100
+226,R- RTG Medicine Box,105,0,Prestige,100
+227,R- 2.25L Blue Bodna,48,0,Prestige,100
+228,R- 2.25L Red Bodna,40,0,Prestige,100
+229,R- Moving Shirt Hanger,125,0,Prestige,100
+230,R- Patla Rehal,68,0,Prestige,100
+231,R- Holy Rehal,76,0,Prestige,100
+232,R- Noha Jar 425ml ,25,0,Prestige,100
+233,R- Noha Jar 300ml ,22,0,Prestige,100
+234,R- Noha Jar 160ml ,18,0,Prestige,100
+235,R- Noha Jar 130ml ,16,0,Prestige,100
+236,R- Moving Busket Big,240,0,Prestige,100
+237,R- 3.5L Jug ,83,0,Prestige,100
+238,R- Haman Dista,115,0,Prestige,100
+239,R- Easy Bag,170,0,Prestige,100
+240,R- Oval Oil Jar,105,0,Prestige,100
+241,R- Dust Busket Small,55,0,Prestige,100
+242,R- Wastage Bin,400,0,Prestige,100
+243,R- Cain Paper Busket,195,0,Prestige,100
+244,R- 4P Fresco Set,170,0,Prestige,100
+245,R- Shirt Hanger,80,0,Prestige,100
+246,R- Net Tool Medium (R/B),172,0,Popular,100
+247,R- Net Tool Medium (Green),130,0,Popular,100
+248,R- Popular Shoe Rack,410,0,Popular,100
+249,R- Round (gol) Rack,400,0,Popular,100
+250,R- Standard Kitchen Rack,1600,0,Popular,100
+251,R- Mota Mini Rack,205,0,Popular,100
+252,R- Popular Potty,290,0,Popular,100
+253,R- Coffee Mug,32,0,Popular,100
+254,R- 500Ml Mug,12,0,Popular,100
+255,R- Medium Pani Chakni,22,0,Popular,100
+256,R- Small Pani Chakni,20,0,Popular,100
+257,R- Carniz Spice jar (mosolla),56,0,Popular,100
+258,R- 3-Bati Cari,120,0,Popular,100
+259,R- 2-Bati Cari,95,0,Popular,100
+260,R- Loose Container 3L,58,0,Popular,100
+261,R- Loose Container 5L,83,0,Popular,100
+262,R- Loose Container 7L,108,0,Popular,100
+263,R- Loose Container 10L,135,0,Popular,100
+264,R- Loose Container 15L,210,0,Popular,100
+265,R- Loose Container 20L,260,0,Popular,100
+266,R- Big Rainbow 3P Set,205,0,Popular,100
+267,R- Small Rainbow 4P Set,86,0,Popular,100
+268,R- 38cm Laundry Busket,195,0,Popular,100
+269,R- Paddle Bin 10L,325,0,Popular,100
+270,R- Paddle Bin 15L,460,0,Popular,100
+271,R- Paddle Bin 20L,535,0,Popular,100
+272,R- Medium Dust Pan (Belcha),32,0,Popular,100
+273,R- Round High Tool,230,0,Popular,100
+274,R- 1.5L Fijar Bottle PP,116,0,Popular,100
+275,R- 2L Fijar Bottle SS,137,0,Popular,100
+276,R- 650 Spring Bottle,80,0,Popular,100
+277,R- 550 Spring Bottle,75,0,Popular,100
+278,R- Bonolota Container Set,350,0,Popular,100
+279,R- Cha Chakni,32,0,Popular,100
+280,R- Loose Container 35L,460,0,Popular,100
+281,R- Loose Container 26L,340,0,Popular,100
+282,R- Two Part,95,0,Popular,100
+283,R- Square Salt Jar,36,0,Popular,100
+284,R- Cute Salt Jar (lobon),25,0,Popular,100
+285,R- 2L Design Jug,72,0,Popular,100
+286,R- King Firi (tool),110,0,Popular,100
+287,R- 4P Daliya Set,140,0,Popular,100
+288,R- Love Tool (Red),72,0,Popular,100
+289,R- Love Tool (Green),58,0,Popular,100
+290,R- Wall Hanger,65,0,Popular,100
+291,R- Hexa Kitchen Rack,1460,0,Popular,100
+292,R- Lion Rack,1150,0,Popular,100
+293,R- Executive + Popular Organizer,530,0,Popular,100
+294,R- Baby Potty,130,0,Popular,100
+295,R- 3D Coffee Mug,40,0,Popular,100
+296,R- 45cm Laundry Busket,250,0,Popular,100
+297,R- Court Hanger,180,0,Popular,100
+298,R- 24P Round Hanger,200,0,Popular,100
+299,R- 12P Round Hanger,90,0,Popular,100
+300,R- 12P Finger Clip,62,0,Popular,100
+301,R- 14P Finger Clip,65,0,Popular,100
+302,R- 24P Finger Clip,100,0,Popular,100
+303,R- Power Tool Red,82,0,Prominent,100
+304,R- Round Medium Tool,160,0,Prominent,100
+305,R- Cain Medium Tool,190,0,Prominent,100
+306,R- Cain high Tool,260,0,Prominent,100
+307,R- Lotus Rack,696,0,Prominent,100
+308,R- Smart Organizer,270,0,Prominent,100
+309,R- Baby Fani Chair,190,0,Prominent,100
+310,R- Small Potty,115,0,Prominent,100
+311,R- Car Potty,385,0,Prominent,100
+312,R- Modern Floor Mop,285,0,Prominent,100
+313,R- Deluxe Floor Mop,335,0,Prominent,100
+314,R- SS Deluxe Floor Mop,0,0,Prominent,100
+315,R- Hygiene (Haigine) Bucket,526,0,Prominent,100
+316,R- Print Bowl 3L,42,0,Prominent,100
+317,R- Print Bowl 5L,68,0,Prominent,100
+318,R- Print Bowl 8L,100,0,Prominent,100
+319,R- Print Bowl 10L,115,0,Prominent,100
+320,R- Print Bowl 15L,145,0,Prominent,100
+321,R- Print Bowl 18L,190,0,Prominent,100
+322,R- Print Bowl 20L,200,0,Prominent,100
+323,R- Print Bowl 25L,270,0,Prominent,100
+324,R- Print Bowl 28L,285,0,Prominent,100
+325,R- Print Bowl 30L,295,0,Prominent,100
+326,R- Fence Mug,48,0,Prominent,100
+327,R- Cosmo Mug,43,0,Prominent,100
+328,R- Aroma Jug,83,0,Prominent,100
+329,R- Diamond Jug,215,0,Prominent,100
+330,R- Lili Jug,100,0,Prominent,100
+331,R- Niyon Jug,195,0,Prominent,100
+332,R- 2P Cherry Container Set,200,0,Prominent,100
+333,R- 3P Cherry Container Set,0,0,Prominent,100
+334,R- 4P Diamond Container Set ,570,0,Prominent,100
+335,R- Titan Box,110,0,Prominent,100
+336,R- 30.5cm Fijar Box,170,0,Prominent,100
+337,R- 37cm Fijar Box,215,0,Prominent,100
+338,R- Medium Ruti Box,80,0,Prominent,100
+339,R- Big Ruti Box,115,0,Prominent,100
+340,R- Big Bela Ruti Box,80,0,Prominent,100
+341,R- Small Bela Ruti Box,65,0,Prominent,100
+342,R- 1300ml Monia Lock,80,0,Prominent,100
+343,R- 925ml Monia Lock,72,0,Prominent,100
+344,R- 1450ml Monia Lock,95,0,Prominent,100
+345,R- 825ml Partition Monia Lock,108,0,Prominent,100
+346,R- 825ml Monia Lock,80,0,Prominent,100
+347,R- 1650ml Partition Monia Lock,160,0,Prominent,100
+348,R- 1650ml Monia Lock,120,0,Prominent,100
+349,R- 300ml Monia Lock,44,0,Prominent,100
+350,R- 600ml Round Monia Lock,56,0,Prominent,100
+351,R- 600ml Square Monia Lock,62,0,Prominent,100
+352,R- 1200ml Monia Lock,80,0,Prominent,100
+353,R- 450ml Monia Lock,56,0,Prominent,100
+354,R- 350ml Monia Lock,72,0,Prominent,100
+355,R- 200ml Monia Lock,45,0,Prominent,100
+356,R- 1100ml Monia Lock,88,0,Prominent,100
+357,R- 1100ml Partition Monia Lock,120,0,Prominent,100
+358,R- 2800ml Partition Monia Lock,200,0,Prominent,100
+359,R- 2800ml Monia Lock,150,0,Prominent,100
+360,R- 300ml Glass,12,0,Prominent,100
+361,R- Tulip Tea Cup - 6P,115,0,Prominent,100
+362,R- Nancy Tea-Cup,16,0,Prominent,100
+363,R- jest Spice Tray,78,0,Prominent,100
+364,R- Camelia Salt jar,25,0,Prominent,100
+365,R- 34cm Royel Cutting Board,150,0,Prominent,100
+366,R- Multi Juicer,150,0,Prominent,100
+367,R- Happy Brush Holder,50,0,Prominent,100
+368,R- 1000 Care Tiffin Box,95,0,Prominent,100
+369,R- 900 Care Tiffin Box,75,0,Prominent,100
+370,R- 600 Care Tiffin Box,72,0,Prominent,100
+371,R- Dongle Hanger 6P,108,0,Prominent,100
+372,R- Coper Hanger 6P,105,0,Prominent,100
+373,R- 16 Hook Hanger,80,0,Prominent,100
+374,R- Octo Hanger,165,0,Prominent,100
+375,R- 2.75 Blue Bodna,59,0,Prominent,100
+376,R- 2.75 Green Bodna,59,0,Prominent,100
+377,R- 2.75 Red Bodna,46,0,Prominent,100
+378,R- 6L Gardening Jar,160,0,Prominent,100
+379,R- 4 Drawer Smart Closet,1950,0,Prominent,100
+380,R- 5 Drawer Smart Closet,2350,0,Prominent,100
+381,R- Clean Paper Busket,62,0,Prominent,100
+382,R- Sun Flower Busket,100,0,Prominent,100
+383,R- Laundry Busket,220,0,Prominent,100
+384,R- Big RTG flower Tob,133,0,Prominent,100
+385,R- Medium RTG flower Tob,97,0,Prominent,100
+386,R- Small RTG flower Tob,60,0,Prominent,100
+387,R- Tulip Glass Stand,195,0,Prominent,100
+388,R- Spiral Mop,320,0,Prominent,100
+389,R- 51cm Moshjid Stand,60,0,Prominent,100
+390,R- Bonga Big,55,0,Prominent,100
+391,R- Bonga Medium,35,0,Prominent,100
+392,R- Bonga Small,28,0,Prominent,100
+393,R- Fanel Small,16,0,Prominent,100
+394,R- Fanel Medium,18,0,Prominent,100
+395,R- Fanel Big,25,0,Prominent,100
+396,R- Liberty Bottle 500ml,45,0,Prominent,100
+397,R- Liberty Bottle 800ml,72,0,Prominent,100
+398,R- Phinix (finix) Bottle 1000ml,40,0,Prominent,100
+399,R- Oil Jar 1000ml,108,0,Prominent,100
+400,R- Oil Jar 750ml,88,0,Prominent,100
+401,R- Filter Stand 2step Black,445,0,Prominent,100
+402,R- Filter Stand 3step Black,690,0,Prominent,100
+403,R- Filter Stand 3step Blue,925,0,Prominent,100
+404,R- Filter Stand 2step Blue,585,0,Prominent,100
+405,R- Filter 20L ,1700,0,Prominent,100
+406,R- Filter 24L ,1750,0,Prominent,100
+407,R- Filter 28L ,2300,0,Prominent,100
+408,R- Safe Way Ciramics,230,0,Prominent,100
+409,R- Safe Way Cartridge,360,0,Prominent,100
+410,R- Edur Kol Mota,160,0,Prominent,100
+411,R- Edur Kol Patla,140,0,Prominent,100
+412,R- Kol,52,0,Prominent,100
+413,R-Priti + Beauty Powder Case,70,0,Prominent,100
+414,R- VIP Tool,378,0,Pacific,100
+415,R- Horse Potty,280,0,Pacific,100
+416,R- Suite Bathtub,620,0,Pacific,100
+417,R- 5 Drawer Tini Organizer,90,0,Pacific,100
+418,R- Smart Print Rack,500,0,Pacific,100
+419,R- Standard Mini Rack,130,0,Pacific,100
+420,R- English Dish Rack Mini,280,0,Pacific,100
+421,R- English Dish Rack Big,485,0,Pacific,100
+422,R- Sulov 1500ml Bowl,19,0,Pacific,100
+423,R- Sulov 620ml Bowl,17,0,Pacific,100
+424,R- Easy Ice Maker,65,0,Pacific,100
+425,R- Gudni,32,0,Pacific,100
+426,R- Dabu,22,0,Pacific,100
+427,R- Kido Bottle,85,0,Pacific,100
+428,R- Mina Bottle,85,0,Pacific,100
+429,R- 550 Spark Bottle,105,0,Pacific,100
+430,R- 700 Spark Bottle,142,0,Pacific,100
+431,R- 450ml Oil Jar,85,0,Pacific,100
+432,R- Medium Fresh Busket,72,0,Pacific,100
+433,R- Big Fresh Busket,130,0,Pacific,100
+434,R- Heavy Rehal,118,0,Pacific,100
+435,R- Unique Belcha,30,0,Pacific,100
+436,R- Bed Jharu,95,0,Pacific,100
+437,R- Mina Container Big,135,0,Pacific,100
+438,R- Mina Container Medium,100,0,Pacific,100
+439,R- Mina Container Small,80,0,Pacific,100
+440,R- Pacific Shoe Rack,420,0,Pacific,100
+441,R- Drinko Mug,80,0,Pacific,100
+442,R- Popular Medium Net Tool (R/B),152,0,Prado,100
+443,R- Popular Medium Net Tool (Green),125,0,Prado,100
+444,R- Easy Tool Oval (R/B),138,0,Prado,100
+445,R- Easy Tool Oval (Green/Royal Blue),105,0,Prado,100
+446,R- Nice Potty,300,0,Prado,100
+447,R- Chair Potty,165,0,Prado,100
+448,R- Doreimon Chair,145,0,Prado,100
+449,R- Baby Bed Table,370,0,Prado,100
+450,R- Modern Kids Table Big,465,0,Prado,100
+451,R- Modern Kids Table Small,445,0,Prado,100
+452,R- 4 Step Nova Rack,625,0,Prado,100
+453,R- 5 Step Nova Rack,790,0,Prado,100
+454,R- Popular Rack,390,0,Prado,100
+455,R- Nimo Mug,32,0,Prado,100
+456,R- Paris Mug,34,0,Prado,100
+457,R- Paris Mug with Lid,58,0,Prado,100
+458,R- Magic Mug ,68,0,Prado,100
+459,R- 2L Sweety Jug,57,0,Prado,100
+460,R- Atlantic Jug,120,0,Prado,100
+461,R- Queen jug,195,0,Prado,100
+462,R- 3.5L King jug,83,0,Prado,100
+463,R- 1.8L King jug,60,0,Prado,100
+464,R- 1L Heater jug,155,0,Prado,100
+465,R- 2.5L Heater jug,270,0,Prado,100
+466,R- Table salt Jar ,14,0,Prado,100
+467,R- 1200ml Lili Bottle,58,0,Prado,100
+468,R- 850ml King Jug,32,0,Prado,100
+469,R- SS RTG ,295,0,Prado,100
+470,R- Miki Bottle,85,0,Prado,100
+471,R- 550ml Cyber Bottle,110,0,Prado,100
+472,R- 450ml Cyber Bottle,100,0,Prado,100
+473,R- Mimi RTG Tiffin Box,76,0,Prado,100
+474,R- Strawbery Tiffin Box,80,0,Prado,100
+475,R- Round 3 Bati with Handle,205,0,Prado,100
+476,R- 375ml Camelia Jar,28,0,Prado,100
+477,R- 750ml Camelia Jar,38,0,Prado,100
+478,R- 1250ml Camelia Jar,48,0,Prado,100
+479,R- 2000ml Trim Container,86,0,Prado,100
+480,R- 3500ml Trim Container,95,0,Prado,100
+481,R- 600ml Trim Container,32,0,Prado,100
+482,R- 4500ml Trim Container,136,0,Prado,100
+483,R- 200ml Trim Container,22,0,Prado,100
+484,R- 300ml Trim Container,24,0,Prado,100
+485,R- 1000ml Trim Container,44,0,Prado,100
+486,R- 8500ml Trim Container,195,0,Prado,100
+487,R- 6000ml Trim Container,165,0,Prado,100
+488,R- Tomi Organizer,240,0,Prado,100
+489,R- Wall Mirror,195,0,Prado,100
+490,R- Moving Haat Pakha,35,0,Prado,100
+491,R- 24P Clip Busket,125,0,Prado,100
+492,R- 18P Clip Busket,80,0,Prado,100
+493,R- 12P Jonaki Clip,57,0,Prado,100
+494,R- 12P Solar Clip,68,0,Prado,100
+495,R- 12P Flower Clip,50,0,Prado,100
+496,R- Pid Chulkani,25,0,Prado,100
+497,R- Smile Brush Holder,50,0,Prado,100
+498,R- Baby Bathtub ,445,0,Prado,100
+499,R- 200ml Globe Jar,18,0,Prado,100
+500,R- 350ml Globe Jar,22,0,Prado,100
+501,R- 450ml Globe Jar,28,0,Prado,100
+502,R- 800ml Globe Jar,38,0,Prado,100
+503,R- 1200ml Globe Jar,48,0,Prado,100
+504,R- 1400ml Globe Jar,65,0,Prado,100
+505,R- 2100ml Globe Jar,72,0,Prado,100
+506,R- Modern Wall Hook 2P Set,62,0,Prado,100
+507,R- Cain Oval Pan Stand,30,0,Prado,100
+508,R- Milk Carret ,360,0,Prado,100
+509,R- 15L Classic Bin,365,0,Prado,100
+510,Win- 1000ml Aroma Hotpot  ,310,0,Winner,100
+511,Win- 1500ml Aroma Hotpot  ,410,0,Winner,100
+512,Win- 2000ml Aroma Hotpot  ,530,0,Winner,100
+513,Win- 2500ml Aroma Hotpot  ,630,0,Winner,100
+514,Win- 5000ml Aroma Hotpot  ,850,0,Winner,100
+515,Win- 500ml Leisure Hotpot,230,0,Winner,100
+516,Win- 3 Bati Cosmo New,330,0,Winner,100
+517,Win- 4 Bati Cosmo New,380,0,Winner,100
+518,Win- Premium Belt Carrier 4 Bati Hotpot,580,0,Winner,100
+519,Win- Premium Belt Carrier 3 Bati Hotpot,530,0,Winner,100
+520,Win- 1L Heater Jug,170,0,Winner,100
+521,Win- 1.5L Heater Jug,210,0,Winner,100
+522,Win- 2L Heater Jug,225,0,Winner,100
+523,Win- 1L Ranger Flask SS,590,0,Winner,100
+524,Win- 1L Ranger Flask PP,575,0,Winner,100
+525,Win- 1L Angel  Vacuum Flask,540,0,Winner,100
+526,Win- 1L Delta Flask,540,0,Winner,100
+527,Win- 1L Elite Flask,525,0,Winner,100
+528,Win- 1L Elegant Flask,360,0,Winner,100
+529,Win- 500ml Elegant Flask,290,0,Winner,100
+530,Win- 500ml Vacuum Flask,280,0,Winner,100
+531,Win- 1L Vacuum Flask,350,0,Winner,100
+532,Win- 1.8L Vacuum Flask,450,0,Winner,100
+533,Win- 1L Marvel Flask,360,0,Winner,100
+534,Win- 500ml Marvel Flask,290,0,Winner,100
+535,Win- 1.8L Crown Flask,610,0,Winner,100
+536,Win- 3L PP Flask,1260,0,Winner,100
+537,Win- 3L Metal Flask,1300,0,Winner,100
+538,Win- 3L SS Flask,1350,0,Winner,100
+539,Win- 3.5L SS Flask,1490,0,Winner,100
+540,Win- 1.5L Ketli,850,0,Winner,100
+541,Win- 1000ml Leisure Hotpot,280,0,Winner,100
+542,Win- 1.3L Delta Flask,550,0,Winner,100
+543,Win- 1200ml Omega Hotpot,480,0,Winner,100
+544,Win- 1500ml Omega Hotpot,550,0,Winner,100
+545,Win- 2000ml Omega Hotpot,580,0,Winner,100
+546,Win- 2500ml Omega Hotpot,650,0,Winner,100
+547,Win- 3000ml Omega Hotpot,700,0,Winner,100
+548,Win- 3600ml Omega Hotpot SS,770,0,Winner,100
+549,Win- 750ml Tharmo Flask,825,0,Winner,100
+550,Win- 650ml Mari gold,325,0,Winner,100
+551,Win- jhul Jharu,160,0,Winner,100
+552,Win- Floor Wiper,140,0,Winner,100
+553,Win- 1L Mari Gold,375,0,Winner,100
+554,Win- 500ml Mari Gold,285,0,Winner,100
+555,Win- Clean Max,250,0,Winner,100
+556,Win- Toilet Brush,40,0,Winner,100
+557,Win- Ful Jharu,155,0,Winner,100
+558,Win- Happy Mum Pot,55,0,Winner,100
+559,Win- Honey Bee Mum Pot,80,0,Winner,100
+560,Win- Elite Super,500,0,Winner,100
+561,BP- 50cm Net Dakna,65,0,Bikrampur Plastic,100
+562,BP- 42cm Net Dakna,38,0,Bikrampur Plastic,100
+563,BP- 37cm Net Dakna,342,0,Bikrampur Plastic,100
+564,BP- 32cm Net Dakna,246,0,Bikrampur Plastic,100
+565,BP- 28cm Net Dakna,186,0,Bikrampur Plastic,100
+566,BP- 25cm Net Dakna,130,0,Bikrampur Plastic,100
+567,BP- 20cm Net Dakna,90,0,Bikrampur Plastic,100
+568,BP- 16cm Net Dakna,64,0,Bikrampur Plastic,100
+569,BP- 13cm Net Dakna,45,0,Bikrampur Plastic,100
+570,BP- Marco Potty,90,0,Bikrampur Plastic,100
+571,BP- Racer Potty,165,0,Bikrampur Plastic,100
+572,BP- Big Dala,92,0,Bikrampur Plastic,100
+573,BP- Small Dala,66,0,Bikrampur Plastic,100
+574,BP- Fishy Bank,17,0,Bikrampur Plastic,100
+575,BP- Big Tala Bank,192,0,Bikrampur Plastic,100
+576,BP- Small Tala Bank,92,0,Bikrampur Plastic,100
+577,BP- 9 Hook Hanger ,266,0,Bikrampur Plastic,100
+578,BP- 11 Hook Hanger ,370,0,Bikrampur Plastic,100
+579,BP- 10L Container Set 4P,290,0,Bikrampur Plastic,100
+580,BP- 7L Container Set 3P,180,0,Bikrampur Plastic,100
+581,BP- 20L Container Loose,210,0,Bikrampur Plastic,100
+582,BP- 15L Container Loose,150,0,Bikrampur Plastic,100
+583,BP- 10L Container Loose,90,0,Bikrampur Plastic,100
+584,BP- 7L Container Loose,74,0,Bikrampur Plastic,100
+585,BP- 2500 Number 1 Bati,46,0,Bikrampur Plastic,100
+586,BP- 1500 Number 1 Bati,32,0,Bikrampur Plastic,100
+587,BP- 750 Number 1 Bati,19,0,Bikrampur Plastic,100
+588,BP- Nano Box,78,0,Bikrampur Plastic,100
+589,BP- Radhuni Lobon-dani (Salt-jar)- 1D,90,0,Bikrampur Plastic,100
+590,BP- 3 Drawer Jerry Organizer,97,0,Bikrampur Plastic,100
+591,BP- 2 Drawer Jerry Organizer,75,0,Bikrampur Plastic,100
+592,BP- 2 (Twin) Color Mug,186,0,Bikrampur Plastic,100
+593,BP- Modern Print Mug,186,0,Bikrampur Plastic,100
+594,BP- 3 Bati Carrier (Good luck),94,0,Bikrampur Plastic,100
+595,BP- 2 Bati Carrier (Good luck),80,0,Bikrampur Plastic,100
+596,BP- 24 Piece Dim Box,85,0,Bikrampur Plastic,100
+597,BP- 12 Piece Dim Box,55,0,Bikrampur Plastic,100
+598,BP- Catering Box,140,0,Bikrampur Plastic,100
+599,BP- Food Carrier Box,152,0,Bikrampur Plastic,100
+600,BP- Fishy Box,125,0,Bikrampur Plastic,100
+601,BP- Mega Box,190,0,Bikrampur Plastic,100
+602,BP- Bread Box,85,0,Bikrampur Plastic,100
+603,BP- Meat Box,90,0,Bikrampur Plastic,100
+604,BP- Nobabi Jug,210,0,Bikrampur Plastic,100
+605,BP- Number 1 Bati Set,95,0,Bikrampur Plastic,100
+606,BP- Ettadi 4 Bati Set,95,0,Bikrampur Plastic,100
+607,BP- Ettadi 3 Bati Set,81,0,Bikrampur Plastic,100
+608,BP- Rong-Dhonu 5P Bati Set,120,0,Bikrampur Plastic,100
+609,BP- Rong-Dhonu 4P Bati Set,80,0,Bikrampur Plastic,100
+610,BP- 35cm Home Jali,71,0,Bikrampur Plastic,100
+611,BP- 32cm Home Jali,61,0,Bikrampur Plastic,100
+612,BP- 28cm Home Jali,43,0,Bikrampur Plastic,100
+613,BP- 37cm Twin Jali,76,0,Bikrampur Plastic,100
+614,BP- 30cm Twin Jali,44,0,Bikrampur Plastic,100
+615,BP- 50L RC Drum,107,0,Bikrampur Plastic,100
+616,BP- 40L RC Drum,87,0,Bikrampur Plastic,100
+617,BP- 20L Dakna Balti (Bucket) - Coloring,97,0,Bikrampur Plastic,100
+618,BP- 20L Dakna Balti (Bucket) - Black,92,0,Bikrampur Plastic,100
+619,BP- 20L Balti (Bucket) - Black,77,0,Bikrampur Plastic,100
+620,BP- Noodles Net Jali,210,0,Bikrampur Plastic,100
+621,BP- 10P Kulfi Ice Maker,54,0,Bikrampur Plastic,100
+622,BP- 8P Kulfi Ice Maker,50,0,Bikrampur Plastic,100
+623,BP- 6P Kulfi Ice Maker,35,0,Bikrampur Plastic,100
+624,BP- 4P Kulfi Ice Maker,25,0,Bikrampur Plastic,100
+625,BP- Juicer Jug,72,0,Bikrampur Plastic,100
+626,BP- Max Stand,198,0,Bikrampur Plastic,100
+627,BP- Unique Stand - 1P,17,0,Bikrampur Plastic,100
+628,BP- Student Pen Stand - 1P,17,0,Bikrampur Plastic,100
+629,BP- Rambo Stand ,35,0,Bikrampur Plastic,100
+630,BP- Corporate Busket,88,0,Bikrampur Plastic,100
+631,BP- Kakon Jali,84,0,Bikrampur Plastic,100
+632,BP- Vegetable Busket,68,0,Bikrampur Plastic,100
+633,BP- Daliya Busket,83,0,Bikrampur Plastic,100
+634,BP- Big Cute Busket,86,0,Bikrampur Plastic,100
+635,BP- Small Cute Busket,64,0,Bikrampur Plastic,100
+636,BP- Medium Apex Busket,38,0,Bikrampur Plastic,100
+637,BP- Mini Apex Busket,192,0,Bikrampur Plastic,100
+638,BP- B Quality Jali,19,0,Bikrampur Plastic,100
+639,BP- Momtaj Jali,198,0,Bikrampur Plastic,100
+640,BP- Choya Atta Chalni,330,0,Bikrampur Plastic,100
+641,BP- 50L Bowl (Gamla),320,0,Bikrampur Plastic,100
+642,BP- Sun Flower Mini Rack,88,0,Bikrampur Plastic,100
+643,BP- Baby Top Mini Rack,80,0,Bikrampur Plastic,100
+644,BP- 3 Kona Mini Rack,80,0,Bikrampur Plastic,100
+645,BP- Square Mini Rack,78,0,Bikrampur Plastic,100
+646,BP- Magic Mini Rack,76,0,Bikrampur Plastic,100
+647,BP- Mini Jar 3P Set,85,0,Bikrampur Plastic,100
+648,BP- Paddle Bin - Black,85,0,Bikrampur Plastic,100
+649,BP- Urine Pot - 24/-,40,0,Bikrampur Plastic,100
+650,BP- Bed Pen - 57/-,70,0,Bikrampur Plastic,100
+651,BP- Big Sauce Can,144,0,Bikrampur Plastic,100
+652,BP- Small Sauce Can,96,0,Bikrampur Plastic,100
+653,BP- Big Kula,61,0,Bikrampur Plastic,100
+654,BP- 13inc Khandani Tob - Coloring ,140,0,Bikrampur Plastic,100
+655,BP- 10inc Khandani Tob - Coloring ,90,0,Bikrampur Plastic,100
+656,BP- 9inc Khandani Tob - Coloring ,60,0,Bikrampur Plastic,100
+657,BP- 7inc Khandani Tob - Coloring ,37,0,Bikrampur Plastic,100
+658,BP- 5.5inc Khandani Tob - Coloring ,22,0,Bikrampur Plastic,100
+659,BP- 4.5inc Khandani Tob - Coloring ,15,0,Bikrampur Plastic,100
+660,BP- 4inc Khandani Tob - Coloring ,10,0,Bikrampur Plastic,100
+661,BP- 13inc Khandani Tob - White,210,0,Bikrampur Plastic,100
+662,BP- 10inc Khandani Tob - White,120,0,Bikrampur Plastic,100
+663,BP- 9inc Khandani Tob - White,75,0,Bikrampur Plastic,100
+664,BP- 7inc Khandani Tob - White,42,0,Bikrampur Plastic,100
+665,BP- 5.5inc Khandani Tob - White,27,0,Bikrampur Plastic,100
+666,BP- 4.5inc Khandani Tob - White,18,0,Bikrampur Plastic,100
+667,BP- 4inc Khandani Tob - White,12,0,Bikrampur Plastic,100
+668,BP- 22cm Big Grill Tob - Coloring,50,0,Bikrampur Plastic,100
+669,BP- 15cm Medium Grill Tob - Coloring,24,0,Bikrampur Plastic,100
+670,BP- 12cm Small Grill Tob - Coloring,15,0,Bikrampur Plastic,100
+671,BP- 12cm Small Grill Tob - White,20,0,Bikrampur Plastic,100
+672,BP- 15cm Medium Grill Tob - White,30,0,Bikrampur Plastic,100
+673,BP- 22cm Big Grill Tob - White,60,0,Bikrampur Plastic,100
+674,BP- 18'' Eco Tob ,260,0,Bikrampur Plastic,100
+675,BP- 16'' Eco Tob ,170,0,Bikrampur Plastic,100
+676,BP- 14'' Eco Tob ,118,0,Bikrampur Plastic,100
+677,BP- 12'' Eco Tob ,78,0,Bikrampur Plastic,100
+678,BP- 10'' Eco Tob ,58,0,Bikrampur Plastic,100
+679,BP- 8'' Eco Tob ,35,0,Bikrampur Plastic,100
+680,BP- 6'' Eco Tob ,24,0,Bikrampur Plastic,100
+681,BP- 4'' Eco Tob ,12,0,Bikrampur Plastic,100
+682,BP- 11.5'' Square Tob ,100,0,Bikrampur Plastic,100
+683,BP- 13'' Square Tob ,140,0,Bikrampur Plastic,100
+684,BP- 11'' Hanging Tob,50,0,Bikrampur Plastic,100
+685,BP- 9'' Hanging Tob,40,0,Bikrampur Plastic,100
+686,BP- 8'' Hanging Tob,28,0,Bikrampur Plastic,100
+687,BP- 7'' Hanging Tob,22,0,Bikrampur Plastic,100
+688,BP- RMB Dish Rack,280,0,Bikrampur Plastic,100
+689,BP- Mota Round Gol Rack,235,0,Bikrampur Plastic,100
+690,BP- Patla Round Gol Rack,210,0,Bikrampur Plastic,100
+691,BP- 1L Happy Jar - 3P,78,0,Bikrampur Plastic,100
+692,BP- 2L Happy Jar - 3P,85,0,Bikrampur Plastic,100
+693,BP- 3L Happy Jar - 3P,110,0,Bikrampur Plastic,100
+694,BP- 3P Mini Jar Container Set,85,0,Bikrampur Plastic,100
+695,BP- 5L Container Loose,54,0,Bikrampur Plastic,100
+696,BP- 3L Container Loose,38,0,Bikrampur Plastic,100
+697,BP- Tulip Cup,16.5,0,Bikrampur Plastic,100
+698,BP- Fruit Tray,202,0,Bikrampur Plastic,100
+699,BP- Family Cutlery Stand,196,0,Bikrampur Plastic,100
+700,BP- Flower Stand,82,0,Bikrampur Plastic,100
+701,BP- Butterfly Busket,35,0,Bikrampur Plastic,100
+702,BP- Big Babul Busket,64,0,Bikrampur Plastic,100
+703,BP- Small Babul Busket,44,0,Bikrampur Plastic,100
+704,BP- Big Beter Jhuri,30,0,Bikrampur Plastic,100
+705,BP- Small Beter Jhuri,15,0,Bikrampur Plastic,100
+706,BP- Mini Beter Jhuri,8,0,Bikrampur Plastic,100
+707,BP- Big Jambo Jali,150,0,Bikrampur Plastic,100
+708,BP- All Time Saban Case,80,0,Bikrampur Plastic,100
+709,BP- BP Saban Case,132,0,Bikrampur Plastic,100
+710,BP- Keya Saban Case,54,0,Bikrampur Plastic,100
+711,BP- Moving Haat Pakha,17,0,Bikrampur Plastic,100
+712,R- Penguin Bottle 230ml,41,0,Premium,100
+713,Taj- 5 Bati Set,210,0,Taj Plastic,100
+714,Taj- 4.5L Round Bati,68,0,Taj Plastic,100
+715,Taj- 3L Round Bati,53,0,Taj Plastic,100
+716,Taj- 2L Round Bati,40,0,Taj Plastic,100
+717,Taj- 1.5L Round Bati,33,0,Taj Plastic,100
+718,Taj- 900ml Round Bati,22,0,Taj Plastic,100
+719,Taj- 2500 Soikot Bati -1P,47,0,Taj Plastic,100
+720,Taj- 1500 Soikot Bati -1P,33,0,Taj Plastic,100
+721,Taj- 750 Soikot Bati -1D,210,0,Taj Plastic,100
+722,Taj- 3 Bati Carrier,95,0,Taj Plastic,100
+723,Taj- 2 Bati Carrier,80,0,Taj Plastic,100
+724,Taj- 3.5L Jug,80,0,Taj Plastic,100
+725,Taj- Soikot Jug,75,0,Taj Plastic,100
+726,Taj- Urfa Container - Print,90,0,Taj Plastic,100
+727,Taj- Urfa Container - White,85,0,Taj Plastic,100
+728,Taj- 30L Container Loose,300,0,Taj Plastic,100
+729,Taj- Royal 3 Bati Set,105,0,Taj Plastic,100
+730,Taj- King Jug,170,0,Taj Plastic,100
+731,Taj- Prince Jug,155,0,Taj Plastic,100
+732,Taj- Shitol Rack,330,0,Taj Plastic,100
+733,Taj- Shoe Rack,320,0,Taj Plastic,100
+734,Taj- 4 Step Medical Box,180,0,Taj Plastic,100
+735,Taj- 3 Step Medical Box,150,0,Taj Plastic,100
+736,Taj- Big Bed Table,195,0,Taj Plastic,100
+737,Taj- Small Bed Table,180,0,Taj Plastic,100
+738,Taj- Big Love Jali,360,0,Taj Plastic,100
+739,Taj- Small Love Jali,210,0,Taj Plastic,100
+740,Taj- Jui Firi,85,0,Taj Plastic,100
+741,Taj- Tulip Mosolla Dani,85,0,Taj Plastic,100
+742,Taj- Ruti Box,65,0,Taj Plastic,100
+743,Taj- Big Magic Pot,200,0,Taj Plastic,100
+744,Taj- Small Magic Pot,165,0,Taj Plastic,100
+745,Taj- Prime Box,330,0,Taj Plastic,100
+746,Taj- Chery Box,220,0,Taj Plastic,100
+747,Taj- Shaluk Stand,65,0,Taj Plastic,100
+748,Taj- Round Gol Dispo,17,0,Taj Plastic,100
+749,Taj- Coffee Mug,16,0,Taj Plastic,100
+750,Taj- Soyan Dispo,15,0,Taj Plastic,100
+751,Taj- Soikot Bati Set,95,0,Taj Plastic,100
+752,Taj- Surma Belcha (Dust Pan),180,0,Taj Plastic,100
+753,Taj- Dakna Saban Case (Soap Case) ,22,0,Taj Plastic,100
+754,Taj- Borof Ice Maker,50,0,Taj Plastic,100
+755,Taj- Chatni Bati,90,0,Taj Plastic,100
+756,Taj- Vhorta Bati,80,0,Taj Plastic,100
+757,Taj- 1 Bati Vivo ,100,0,Taj Plastic,100
+758,Taj- 2 Bati Vivo ,170,0,Taj Plastic,100
+759,Taj- 3 Bati Vivo ,220,0,Taj Plastic,100
+760,Taj- Medicine Box,85,0,Taj Plastic,100
+761,Taj- 3 Soap (Saban) Case ,170,0,Taj Plastic,100
+762,Taj- 2 Soap (Saban) Case ,160,0,Taj Plastic,100
+763,Taj- Mohona Mosolla Dani,50,0,Taj Plastic,100
+764,Taj- Meher Jali,80,0,Taj Plastic,100
+765,Taj- 6P Ice Maker Small,45,0,Taj Plastic,100
+766,Taj- Baby Tiffine ,112,0,Taj Plastic,100
+767,Taj- Big Tiffine ,160,0,Taj Plastic,100
+768,Taj- 800ml Hotpot,210,0,Taj Plastic,100
+769,Taj- 1200ml Hotpot,300,0,Taj Plastic,100
+770,Taj- 1800ml Hotpot,455,0,Taj Plastic,100
+771,Taj- 2500ml Hotpot,500,0,Taj Plastic,100
+772,Taj- 3300ml Hotpot,595,0,Taj Plastic,100
+773,Taj- 4000ml Hotpot,640,0,Taj Plastic,100
+774,Taj- 5200ml Hotpot,730,0,Taj Plastic,100
+775,Taj- 4 Bati Hot Carrier,510,0,Taj Plastic,100
+776,Taj- 3 Bati Hot Carrier,390,0,Taj Plastic,100
+777,Taj- Rolex 4 Bati Hot Carrier,540,0,Taj Plastic,100
+778,Lira- 15L Container Set,420,0,Lira Plastic,100
+779,Lira- 10L Container Set,275,0,Lira Plastic,100
+780,Lira- 3P Container Set,95,0,Lira Plastic,100
+781,L- 0 (Zero) Kol Patla,198,0,Lira Plastic,100
+782,L- 0 (Zero) Kol Mota,22,0,Lira Plastic,100
+783,L- 500 Bati,102,0,Lira Plastic,100
+784,L- 3P Square Bati Set,65,0,Lira Plastic,100
+785,L- 3P Round Gol Bati Set,47,0,Lira Plastic,100
+786,L- 550 Square Bati,13,0,Lira Plastic,100
+787,L- 1.5L Mug,18,0,Lira Plastic,100
+788,L- 600ml Mug,8.5,0,Lira Plastic,100
+789,L- Small Paper Busket,38,0,Lira Plastic,100
+790,L- Laundry Busket,105,0,Lira Plastic,100
+791,L- Big Vegetable Jali,90,0,Lira Plastic,100
+792,L- Medium Vegetable Jali,50,0,Lira Plastic,100
+793,L- Small Vegetable Jali,30,0,Lira Plastic,100
+794,L- 10L Gallon,143,0,Lira Plastic,100
+795,L- 5L Gallon,52,0,Lira Plastic,100
+796,L- 2.25L Bodna ,38,0,Lira Plastic,100
+797,L- 2.5L Bodna ,42,0,Lira Plastic,100
+798,L- Round Gol Bank ,30,0,Lira Plastic,100
+799,L- Big Kula,75,0,Lira Plastic,100
+800,L- 2 Bati Carrier,92,0,Lira Plastic,100
+801,L- 3 Bati Carrier,120,0,Lira Plastic,100
+802,L- 3L Container Loose,38,0,Lira Plastic,100
+803,L- Big Oval Tool,110,0,Lira Plastic,100
+804,L- Small Oval Tool,82,0,Lira Plastic,100
+805,L- Love Hanger - 1P,28,0,Lira Plastic,100
+806,L- Mota Hanger - 1P,17,0,Lira Plastic,100
+807,L- Patla Hanger - 1P,11,0,Lira Plastic,100
+808,L- Priti Hanger - 1P,11,0,Lira Plastic,100
+809,L- Kalo Hanger - 1P,8,0,Lira Plastic,100
+810,L- Moving Hanger - 1P,15,0,Lira Plastic,100
+811,L- Hand Pakha ,18,0,Lira Plastic,100
+812,L- Coffee Mug,28,0,Lira Plastic,100
+813,L- Dal Chamos Gudni ,22,0,Lira Plastic,100
+814,L- Bed Table,230,0,Lira Plastic,100
+815,L- 11 Hook Hanger - 1P,27,0,Lira Plastic,100
+816,KRM- Sanila Mosolla Dani,80,0,KRM Plastic,100
+817,KRM- Saffola Mosolla Dani,80,0,KRM Plastic,100
+818,KRM- Easy Mosolla Dani,75,0,KRM Plastic,100
+819,KRM- Danaz Mosolla Dani,45,0,KRM Plastic,100
+820,KRM- 24 Stand,55,0,KRM Plastic,100
+821,KRM- Happy Stand,50,0,KRM Plastic,100
+822,KRM- Garden Stand,50,0,KRM Plastic,100
+823,KRM- Sun Light Stand,45,0,KRM Plastic,100
+824,KRM- Blue Ice Maker,75,0,KRM Plastic,100
+825,KRM- Chery Boy Ice Maker,80,0,KRM Plastic,100
+826,KRM- Loli Pop Ice Maker,80,0,KRM Plastic,100
+827,KRM- Ice Tray,65,0,KRM Plastic,100
+828,KRM- Big Kapor Brush,300,0,KRM Plastic,100
+829,KRM- Glass Stand,80,0,KRM Plastic,100
+830,KRM- Love Stand,55,0,KRM Plastic,100
+831,KRM- Love Hanger ,360,0,KRM Plastic,100
+832,KRM- Black Hanger ,150,0,KRM Plastic,100
+833,KRM- jinghe Hanger ,280,0,KRM Plastic,100
+834,KRM- Sharee Hanger ,270,0,KRM Plastic,100
+835,KRM- Number 1 Hanger ,270,0,KRM Plastic,100
+836,B- 10L Container set (3-10),375,0,Bengal Plastic,100
+837,B- 15L Container set (5-15),525,0,Bengal Plastic,100
+838,B- Crazy Bol Hanger,91,0,Bengal Plastic,100
+839,B- Light Hanger,90,0,Bengal Plastic,100
+840,B- Moving Hanger - 6P,133,0,Bengal Plastic,100
+841,B- 24P Round Hanger,195,0,Bengal Plastic,100
+842,B- Wall Hanger 10 Hook,54,0,Bengal Plastic,100
+843,B- Mini Fruit Container - Big,23,0,Bengal Plastic,100
+844,B- Mini Fruit Container - Medium,15,0,Bengal Plastic,100
+845,B- Mini Fruit Container - Small,10,0,Bengal Plastic,100
+846,B- 4 Drawer Organizer ,238,0,Bengal Plastic,100
+847,B- 5 Drawer Organizer ,292,0,Bengal Plastic,100
+848,B- Dust Pan - Belcha,34,0,Bengal Plastic,100
+849,B- Round Laundry Busket,175,0,Bengal Plastic,100
+850,B- High Net Tool,218,0,Bengal Plastic,100
+851,B- Medium Net Tool,155,0,Bengal Plastic,100
+852,B- Big Fanel,41,0,Bengal Plastic,100
+853,B- 5L Twin Color Bowl ,70,0,Bengal Plastic,100
+854,B- 18L Paddle Bin,462,0,Bengal Plastic,100
+855,B- 2.25L Blue Bodna,46,0,Bengal Plastic,100
+856,B- 3L Loose Container,57,0,Bengal Plastic,100
+857,B- 5L Loose Container,83,0,Bengal Plastic,100
+858,B- 7L Loose Container,108,0,Bengal Plastic,100
+859,B- 10L Loose Container,142,0,Bengal Plastic,100
+860,B- 15L Loose Container,210,0,Bengal Plastic,100
+861,B- 21L Loose Container,255,0,Bengal Plastic,100
+862,B- 2L Mug,33,0,Bengal Plastic,100
+863,B- 1.5L Mug,23,0,Bengal Plastic,100
+864,B- Kitchen Rack,730,0,Bengal Plastic,100
+865,B- 4P Rainbow Bati Set,85,0,Bengal Plastic,100
+866,B- 7P Rainbow Bati Set,260,0,Bengal Plastic,100
+867,B- Noodles Net Jali (Chakni),51,0,Bengal Plastic,100
+868,B- Tulip Coffee Mug,57,0,Bengal Plastic,100
+869,B- Horse Potty,255,0,Bengal Plastic,100
+870,B- Duck Potty,340,0,Bengal Plastic,100
+871,B- Flower Dust,67,0,Bengal Plastic,100
+872,B- Crown Fruit Busket,65,0,Bengal Plastic,100
+873,B- 4.8L Fruit Container,92,0,Bengal Plastic,100
+874,B- 3L Fruit Container,75,0,Bengal Plastic,100
+875,B- 2L Fruit Container,50,0,Bengal Plastic,100
+876,B- 3000 Bati,90,0,Bengal Plastic,100
+877,B- 1880 Bati,81,0,Bengal Plastic,100
+878,B- 930 Bati,40,0,Bengal Plastic,100
+879,B- Slim Dish Rack,325,0,Bengal Plastic,100
+880,B- 2 Part Tiffin Box,84,0,Bengal Plastic,100
+881,B- Long Spice Jar,142,0,Bengal Plastic,100
+882,B- Short Spice Jar,75,0,Bengal Plastic,100
+883,B- Mini Rack,212,0,Bengal Plastic,100
+884,B- Roton Busket - Tini,74,0,Bengal Plastic,100
+885,B- Roton Busket - Mini,109,0,Bengal Plastic,100
+886,B- 3.5L Jug,85,0,Bengal Plastic,100
+887,B- 3L Jug,78,0,Bengal Plastic,100
+888,B- Daily Box RTG Mosolla,92,0,Bengal Plastic,100
+889,B- Shopping Busket,325,0,Bengal Plastic,100
+890,B- Aqua Bottle,48,0,Bengal Plastic,100
+891,B- Dal Gudni,30,0,Bengal Plastic,100
+892,B- Dabu,24,0,Bengal Plastic,100
+893,B- Multi Chamber Box,82,0,Bengal Plastic,100
+894,B- Small Storage Busket,361,0,Bengal Plastic,100
+895,B- Medium Storage Busket,620,0,Bengal Plastic,100
+896,B- Big Storage Busket,960,0,Bengal Plastic,100
+897,B- Round Mosolla Dani,76,0,Bengal Plastic,100
+898,A- Tor Toys Potty,345,0,Akij Plastic,100
+899,A- Car Potty,400,0,Akij Plastic,100
+900,A- Drinking Mug,18,0,Akij Plastic,100
+901,A- Drinking Glass,16,0,Akij Plastic,100
+902,A- 20L Loose Container ,250,0,Akij Plastic,100
+903,A- 15L Loose Container ,212,0,Akij Plastic,100
+904,A- 10L Loose Container ,140,0,Akij Plastic,100
+905,A- 7L Loose Container ,105,0,Akij Plastic,100
+906,A- 5L Loose Container ,85,0,Akij Plastic,100
+907,A- 3L Loose Container ,60,0,Akij Plastic,100
+908,A- 10L Bowl Gamla,105,0,Akij Plastic,100
+909,A- 8L Bowl Gamla,90,0,Akij Plastic,100
+910,A- 5L Bowl Gamla,62,0,Akij Plastic,100
+911,A- 3L Bowl Gamla,42,0,Akij Plastic,100
+912,A- Akij Hanger - 6P,132,0,Akij Plastic,100
+913,A- 6 Step Rack,940,0,Akij Plastic,100
+914,A- 5 Step Rack,790,0,Akij Plastic,100
+915,A- 4 Step Rack,630,0,Akij Plastic,100
+916,A- Baby Chair,216,0,Akij Plastic,100
+917,A- Laundry Busket,565,0,Akij Plastic,100
+918,A- Kitchen Rack,1600,0,Akij Plastic,100
+919,A- Dish Rack,300,0,Akij Plastic,100
+920,A- Square 3P Bati Set - Big,175,0,Akij Plastic,100
+921,A- Round 3P Bati Set - Big,140,0,Akij Plastic,100
+922,A- RTG Square 3P Bati Set ,200,0,Akij Plastic,100
+923,A- 20L Paddle Bin,520,0,Akij Plastic,100
+924,A- 10L Paddle Bin,310,0,Akij Plastic,100
+925,A- Noodles Net Jali (Chakni),38,0,Akij Plastic,100
+926,A- 10L Container Set,365,0,Akij Plastic,100
+927,A- 2L Mug,34,0,Akij Plastic,100
+928,A- 1.5L Mug,27,0,Akij Plastic,100
+929,A- 25L Bowl Gamla,250,0,Akij Plastic,100
+930,A- 21L Bowl Gamla,180,0,Akij Plastic,100
+931,A- 18L Bowl Gamla,160,0,Akij Plastic,100
+932,A- 15L Bowl Gamla,140,0,Akij Plastic,100
+933,A- RCP Jug,130,0,Akij Plastic,100
+934,A- Hard High Tool,275,0,Akij Plastic,100
+935,A- Hard Medium Tool,165,0,Akij Plastic,100
+936,A- Short Tool,92,0,Akij Plastic,100
+937,A- Semi High Tool,180,0,Akij Plastic,100
+938,A- Semi Spear Medium Tool,155,0,Akij Plastic,100
+939,A- Barbi Medium Tool,130,0,Akij Plastic,100
+940,DS- 6P Kan Jali Set,1200,0,Dhaka Steel,100
+941,DS- 31.5cm Kan Jali ,280,0,Dhaka Steel,100
+942,DS- 28.5cm Kan Jali ,260,0,Dhaka Steel,100
+943,DS- 25.5cm Kan Jali ,240,0,Dhaka Steel,100
+944,DS- 25cm SS Net Jali ,120,0,Dhaka Steel,100
+945,DS- 22cm SS Net Jali ,110,0,Dhaka Steel,100
+946,DS- 28cm SS Net Jali ,130,0,Dhaka Steel,100
+947,DS- 12'' Noodles Jali ,65,0,Dhaka Steel,100
+948,DS- 14'' Noodles Jali ,70,0,Dhaka Steel,100
+949,DS- 16'' Noodles Jali ,75,0,Dhaka Steel,100
+950,"DS- 8"" SS Cha Chakni",45,0,Dhaka Steel,100
+951,"DS- 10"" SS Cha Chakni",50,0,Dhaka Steel,100
+952,"DS- 12"" SS Cha Chakni",55,0,Dhaka Steel,100
+953,"DS- 14"" SS Tel Chakni (Jali)",80,0,Dhaka Steel,100
+954,"DS- 16"" SS Tel Chakni (Jali)",95,0,Dhaka Steel,100
+955,"DS- 18"" SS Tel Chakni (Jali)",105,0,Dhaka Steel,100
+956,"DS- 20"" SS Tel Chakni (Jali)",115,0,Dhaka Steel,100
+957,"DS- 22"" SS Tel Chakni (Jali)",125,0,Dhaka Steel,100
+958,"DS- 24"" SS Tel Chakni (Jali)",135,0,Dhaka Steel,100
+959,"DS- 26"" SS Tel Chakni (Jali)",150,0,Dhaka Steel,100
+960,DS- Big Kadbat Chakku (knife),130,0,Dhaka Steel,100
+961,DS- Small Kadbat Chakku (knife),65,0,Dhaka Steel,100
+962,DS- Sinbad Chakku (knife),75,0,Dhaka Steel,100
+963,DS- Big Ripid Chakku (knife),50,0,Dhaka Steel,100
+964,DS- Small Ripid Chakku (knife),45,0,Dhaka Steel,100
+965,DS- Small Cover Chakku (knife),105,0,Dhaka Steel,100
+966,DS- Big Cover Chakku (knife),115,0,Dhaka Steel,100
+967,DS- Holud Chakku (knife),170,0,Dhaka Steel,100
+968,DS- Plastic Handle Jali,135,0,Dhaka Steel,100
+969,DS- Silicon Chamos,110,0,Dhaka Steel,100
+970,DS- SS Lebu Chipa,85,0,Dhaka Steel,100
+971,DS- Juice Pipe Straw,70,0,Dhaka Steel,100
+972,DS- Big Alu Vhorta,50,0,Dhaka Steel,100
+973,DS- Small Alu Vhorta,40,0,Dhaka Steel,100
+974,DS- Mota Board Cutter,60,0,Dhaka Steel,100
+975,DS- China Board Cutter,35,0,Dhaka Steel,100
+976,DS- Oil Brush,55,0,Dhaka Steel,100
+977,DS- China Tea Box - Big,320,0,Dhaka Steel,100
+978,DS- China Tea Box - Small,210,0,Dhaka Steel,100
+979,DS- Big Chimta,60,0,Dhaka Steel,100
+980,DS- Small Chimta,50,0,Dhaka Steel,100
+981,DS- Golden 50P Hook,400,0,Dhaka Steel,100
+982,DS- Diamond 50P Hook,400,0,Dhaka Steel,100
+983,DS- Nut 50P Hook,450,0,Dhaka Steel,100
+984,DS- SS Clip,70,0,Dhaka Steel,100
+985,DS- 3D Hook New,70,0,Dhaka Steel,100
+986,DS- 4P China Hook,50,0,Dhaka Steel,100
+987,DS- 6P SS Hook,90,0,Dhaka Steel,100
+988,DS- 9P Smile Hook,110,0,Dhaka Steel,100
+989,DS- 12P China Hook,120,0,Dhaka Steel,100
+990,DS- 5P Kad Hook,60,0,Dhaka Steel,100
+991,DS- 9P Hook,70,0,Dhaka Steel,100
+992,DS- 1No Prime Mug,55,0,Dhaka Steel,100
+993,DS- 2No Prime Mug,65,0,Dhaka Steel,100
+994,DS- 3No Prime Mug,80,0,Dhaka Steel,100
+995,DS- 4No Prime Mug,90,0,Dhaka Steel,100
+996,DS- 5No Prime Mug,100,0,Dhaka Steel,100
+997,DS- 5No Max Mug,170,0,Dhaka Steel,100
+998,DS- 4No Max Mug,160,0,Dhaka Steel,100
+999,DS- 3No Max Mug,125,0,Dhaka Steel,100
+1000,DS- 2No Max Mug,105,0,Dhaka Steel,100
+1001,DS- 1No Max Mug,90,0,Dhaka Steel,100
+1002,DS- Moon 5 Bati - Big,420,480,Dhaka Steel,100
+1003,DS- Moon 4 Bati - Big,350,420,Dhaka Steel,100
+1004,DS- Moon 4 Bati - Medium,290,360,Dhaka Steel,100
+1005,DS- Moon 3 Bati - Big,290,360,Dhaka Steel,100
+1006,DS- Moon 3 Bati - Medium,240,320,Dhaka Steel,100
+1007,DS- Moon 3 Bati - Small,170,260,Dhaka Steel,100
+1008,DS- Silver Bati - KG,400,0,Dhaka Steel,100
+1009,DS- Dosta Chamos Khunti - Big,80,0,Dhaka Steel,100
+1010,DS- Dosta Chamos Khunti - Medium,60,0,Dhaka Steel,100
+1011,DS- Dosta Chamos Khunti - Small,50,0,Dhaka Steel,100
+1012,DS- Big Fry Pan,230,0,Dhaka Steel,100
+1013,DS- Small Fry Pan,200,0,Dhaka Steel,100
+1014,DS- Ruti Tawa,190,0,Dhaka Steel,100
+1015,DS- Chaina Achar Chamos,50,0,Dhaka Steel,100
+1016,DS- Full Golden Spoon-Fork (Ti-Kata),70,0,Dhaka Steel,100
+1017,DS- Full Golden Dessert,120,0,Dhaka Steel,100
+1018,DS- Half Golden Dessert,100,0,Dhaka Steel,100
+1019,DS- Half Golden Spoon-Fork  (Ti-Kata),60,0,Dhaka Steel,100
+1020,DS- Max Ti-Kata Spoon,190,0,Dhaka Steel,100
+1021,DS- Max Dessert Spoon,290,0,Dhaka Steel,100
+1022,DS- Masud Chamos- Khunti,720,0,Dhaka Steel,100
+1023,DS- Sony Chamos- Khunti,660,0,Dhaka Steel,100
+1024,DS- Touch Chamos (Cary+Rice+dabu),600,0,Dhaka Steel,100
+1025,DS- SS Holud Sony Chamos-Khunti,400,0,Dhaka Steel,100
+1026,DS- Koma Chamos (Cary+Rice+Dabu),190,0,Dhaka Steel,100
+1027,DS- Sotota Chamos (Cary+Rice+Dabu),400,0,Dhaka Steel,100
+1028,DS- 10 Khunti ,280,0,Dhaka Steel,100
+1029,DS- 15 Cary + Dabu,480,0,Dhaka Steel,100
+1030,DS- 50 Khunti Chamos,840,1200,Dhaka Steel,100
+1031,DS- 50 Cary+Dabu Chamos,900,1200,Dhaka Steel,100
+1032,DS- Jony XXL Khunti,840,0,Dhaka Steel,100
+1033,DS- Jony Khunti,360,0,Dhaka Steel,100
+1034,DS- Jony Tea Spoon,120,0,Dhaka Steel,100
+1035,DS- Jony Mono Dessert,220,0,Dhaka Steel,100
+1036,DS- Jony Mono Table,280,0,Dhaka Steel,100
+1037,DS- Jony Mono XL Table,340,0,Dhaka Steel,100
+1038,DS- Jony Cary+Rice+dabu Chamos,460,0,Dhaka Steel,100
+1039,DS- Kanchi Cup,80,0,Dhaka Steel,100
+1040,DS- Indian Cup,50,0,Dhaka Steel,100
+1041,DS- Dami Choto Glass,75,0,Dhaka Steel,100
+1042,DS- SS Blue Piller,105,0,Dhaka Steel,100
+1043,DS- SS Mota Dami Piller,170,0,Dhaka Steel,100
+1044,DS- SS Patla Dami Piller,150,0,Dhaka Steel,100
+1045,DS- SS Double Piller ,40,0,Dhaka Steel,100
+1046,DS- SS Single Piller ,35,0,Dhaka Steel,100
+1047,B- File Tray,35,0,Bengal Plastic,100
+1048,R- 2500ml Trim Container,80,0,Prado,100
+1049,R- 35L Two Color Flower Bucket (Balti),475,0,Prado,100
+1050,R- 30L Two Color Flower Bucket (Balti),420,0,Prado,100
+1051,R- 25L Two Color Flower Bucket (Balti),390,0,Prado,100
+1052,R- 20L Two Color Flower Bucket (Balti),275,0,Prado,100
+1053,R- 16L Two Color Flower Bucket (Balti),237,0,Prado,100
+1054,R- 10L Two Color Flower Bucket (Balti),145,0,Prado,100
+1055,R- 5L Two Color Flower Bucket (Balti),88,0,Prado,100
+1056,R- Square Vegetable Rack ,410,0,Prado,100
+1057,R- Round Vegetable Rack ,340,0,Prado,100
+1058,R- Big Atta Chalni,58,0,Pacific,100
+1059,R- Small Atta Chalni,45,0,Pacific,100
+1060,R- Small Pacific Round Tool,68,0,Pacific,100
+1061,R- Medium Pacific Round Tool,88,0,Pacific,100
+1062,R- Small Magic Tool,250,0,Pacific,100
+1063,R- Medium Magic Tool,295,0,Pacific,100
+1064,R- Big Magic Tool,400,0,Pacific,100
+1065,R- Big Style Fence Rack,770,0,Pacific,100
+1066,R- Macca Rehal,110,0,Pacific,100
+1067,R- Glasco Jug,155,0,Pacific,100
+1068,R- Juicy Jug,170,0,Pacific,100
+1069,R- Bely / Crown/ Mery Jug,195,0,Pacific,100
+1070,R- Lucy Mug,70,0,Pacific,100
+1071,R- 4 Step Smart Rack,475,0,Pacific,100
+1072,R- 4 Step Smart Print Rack,500,0,Pacific,100
+1073,R- 30L Black Bucket (Kalo Balti),118,0,Tel,100
+1074,R- 25L Black Bucket (Kalo Balti),101,0,Tel,100
+1075,R- 22L Black Bucket (Kalo Balti),93,0,Tel,100
+1076,R- 20L Black Bucket (Kalo Balti),88,0,Tel,100
+1077,R- 18L Black Bucket (Kalo Balti),77,0,Tel,100
+1078,R- 15L Black Bucket (Kalo Balti),62,0,Tel,100
+1079,R- 12L Black Bucket (Kalo Balti),54,0,Tel,100
+1080,R- 10L Black Bucket (Kalo Balti),49,0,Tel,100
+1081,R- 8L Black Bucket (Kalo Balti),37,0,Tel,100
+1082,R- 4L Black Bucket (Kalo Balti),23,0,Tel,100
+1083,D- 2L Mug,30,0,Diamond Plastic,100
+1084,D- Dust Pan (Belcha),30,0,Diamond Plastic,100
+1085,D- 4200ml Leisure Hotpot,815,0,Diamond Plastic,100
+1086,D- 3600ml Leisure Hotpot,720,0,Diamond Plastic,100
+1087,D- 2500ml Fantasy Hotpot,650,0,Diamond Plastic,100
+1088,D- 2700ml Leisure Hotpot,610,0,Diamond Plastic,100
+1089,D- 2200ml Leisure Hotpot,560,0,Diamond Plastic,100
+1090,D- 1500ml Leisure Hotpot,520,0,Diamond Plastic,100
+1091,D- 1500ml Fantasy Hotpot,540,0,Diamond Plastic,100
+1092,D- 850ml Fantasy Hotpot,400,0,Diamond Plastic,100
+1093,D- Big Tiffin Hotpot,270,0,Diamond Plastic,100
+1094,D- Small Tiffin Hotpot,240,0,Diamond Plastic,100
+1095,D- 400ml Hotpot,160,0,Diamond Plastic,100
+1096,D- 300ml Hotpot,140,0,Diamond Plastic,100
+1097,D- 4 Bati Hot Carrier,610,0,Diamond Plastic,100
+1098,W- 1.8L Heater Jug ,220,0,Winner,100
+1099,DP- 1No Hasan Bati -1D,90,0,Dhaka Plastic,100
+1100,DP- 2No Hasan Bati -1D,150,0,Dhaka Plastic,100
+1101,DP- 3No Hasan Bati -1D,180,0,Dhaka Plastic,100
+1102,DP- 4No Hasan Bati -1D,290,0,Dhaka Plastic,100
+1103,DP- 5No Hasan Bati -1P,33,0,Dhaka Plastic,100
+1104,DP- 6No Hasan Bati -1P,40,0,Dhaka Plastic,100
+1105,DS- 22'' SS Cheni,270,0,Dhaka Steel,100
+1106,DS- 20'' SS Cheni,220,0,Dhaka Steel,100
+1107,DS- 18'' SS Cheni,200,0,Dhaka Steel,100
+1108,"DS- 7"" DM Glass",90,0,Dhaka Steel,100
+1109,"DS- 7.5"" DM Glass",100,0,Dhaka Steel,100
+1110,W- 450ml Smart Flask,630,0,Winner,100
+1111,W- 1.3L Super Penguin ,480,0,Winner,100
+1112,W- 1L Super Penguin Flask,430,0,Winner,100
+1113,W- 500ml Super Flask,460,0,Winner,100
+1114,W- 500 Leisure Hotpot PP,140,0,Winner,100
+1115,W- 500 Laxary Hotpot,190,0,Winner,100
+1116,W- 500ml Bullet Flask,580,0,Winner,100
+1117,W- 500ml Premium Flask,650,0,Winner,100
+1118,W- 480ml Supreme Flask,770,0,Winner,100
+1119,W- 500ml Beauty Flask,660,0,Winner,100
+1120,W- Basic Travell Flask,625,0,Winner,100
+1121,W- 1L Laval Flask,390,0,Winner,100
+1122,W- Bottle Brush,30,0,Winner,100
+1123,W- Glass Wiper,55,0,Winner,100
+1124,W- Long Handle Brush,210,0,Winner,100
+1125,W- Platinum Brush,35,0,Winner,100
+1126,W- Unique Brush,27,0,Winner,100
+1127,W- Elegant Brush,45,0,Winner,100
+1128,W- E> Floor Brush,45,0,Winner,100
+1129,W- Fancy Broom Brush,195,0,Winner,100
+1130,W- Elite Broom Brush,180,0,Winner,100
+1131,W- Floor Brush,60,0,Winner,100
+1132,W- Deluxe Floor Brush,70,0,Winner,100
+1133,W- Cort Brush,60,0,Winner,100
+1134,W- Kapor Brush,25,0,Winner,100
+1135,W- 60ml Fitter,70,0,Winner,100
+1136,W- 90ml Fitter,70,0,Winner,100
+1137,W- 120ml Fitter Handle,80,0,Winner,100
+1138,W- 120ml Fitter ,75,0,Winner,100
+1139,W- 240ml Fitter Handle,80,0,Winner,100
+1140,W- 12P Pata Majoni,150,0,Winner,100
+1141,Win- Round Tiffin Box,290,0,Winner,100
+1142,Win- Square (Chepta) Tiffin Box,260,0,Winner,100
+1143,Win- 1000ml Premium Flask,890,0,Winner,100
+1144,DS- Small Leisure Medical Plate,130,0,Dhaka Steel,100
+1145,DS- Medium Leisure Medical Plate,150,0,Dhaka Steel,100
+1146,DS- Big Leisure Medical Plate,180,0,Dhaka Steel,100
+1147,DS- Miraz Small Leisure Medical Plate,105,0,Dhaka Steel,100
+1148,DS- Dollar Bati Set,360,315,Dhaka Steel,100
+1149,DS- Holud Dim Mixer,360,280,Dhaka Steel,100
+1150,DS- Kalo Dim Mixer,260,0,Dhaka Steel,100
+1151,DS- SS Tasfiya 00 Hari,90,0,Dhaka Steel,100
+1152,DS- SS Tasfiya 0 Hari,100,0,Dhaka Steel,100
+1153,DS- SS Tasfiya 1 Hari,110,0,Dhaka Steel,100
+1154,DS- SS Tasfiya 2 Hari,180,0,Dhaka Steel,100
+1155,DS- SS Tasfiya 3 Hari,220,0,Dhaka Steel,100
+1156,DS- SS Tasfiya 4 Hari,260,0,Dhaka Steel,100
+1157,DS- Kasmery 12no Pudding Loose,130,0,Dhaka Steel,100
+1158,DS- Kasmery 11no Pudding Loose,110,0,Dhaka Steel,100
+1159,DS- Kasmery 10no Pudding Loose,95,0,Dhaka Steel,100
+1160,DS- Kasmery 9no Pudding Loose,85,0,Dhaka Steel,100
+1161,DS- Kasmery 8no Pudding Loose,75,0,Dhaka Steel,100
+1162,DS- Kasmery 7no Pudding Loose,65,0,Dhaka Steel,100
+1163,DS- BPL 1 No Bati,35,0,Dhaka Steel,100
+1164,DS- BPL 2 No Bati,40,0,Dhaka Steel,100
+1165,DS- BPL 3 No Bati,45,0,Dhaka Steel,100
+1166,DS- BPL 4 No Bati,50,0,Dhaka Steel,100
+1167,DS- BPL 5 No Bati,75,0,Dhaka Steel,100
+1168,DS- BPL 6 No Bati,90,0,Dhaka Steel,100
+1169,DS- BPL 7 No Bati,95,0,Dhaka Steel,100
+1170,DS- BPL 8 No Bati,100,0,Dhaka Steel,100
+1171,DS- Max 7'' Glass,48,0,Dhaka Steel,100
+1172,DS- Max 7.5'' Glass,58,0,Dhaka Steel,100
+1173,DS- Queen 7.5'' Glass,48,0,Dhaka Steel,100
+1174,DS- Queen 7'' Glass,38,0,Dhaka Steel,100
+1175,D- 10L Container Set -3P,295,0,Diamond Plastic,100
+1176,D- 3P Spice Container Set,130,0,Diamond Plastic,100
+1177,D- 10L Container Loose,136,0,Diamond Plastic,100
+1178,D- 7L Container Loose,105,0,Diamond Plastic,100
+1179,D- 5L Container Loose,75,0,Diamond Plastic,100
+1180,DS- SS 3.5'' Gold Bowl,600,0,Dhaka Steel,100
+1181,DS- SS 5'' Gold Bowl,540,0,Dhaka Steel,100
+1182,DS- SS Bowl,420,0,Dhaka Steel,100
+1183,DS- SS Besing Bowl,470,0,Dhaka Steel,100
+1184,DS- SS Mic Bowl Bati,500,0,Dhaka Steel,100
+1185,DS- SS Kasha Bowl Bati,540,470,Dhaka Steel,100
+1186,DS- SS  Leisure Kasha Bowl Bati,800,470,Dhaka Steel,100
+1187,DS- Masud Bogi Plate,490,0,Dhaka Steel,100
+1188,DS- Prime Bogi Plate,540,0,Dhaka Steel,100
+1189,DS- SS Kolosh,1050,0,Dhaka Steel,100
+1190,DS- Mondir Bati,860,0,Dhaka Steel,100
+1191,DS- Aziz SS 14'' Hari,330,0,Dhaka Steel,100
+1192,DS- Aziz SS 15'' Hari,350,0,Dhaka Steel,100
+1193,DS- Aziz SS 16'' Hari,370,0,Dhaka Steel,100
+1194,DS- Aziz SS 17'' Hari,390,0,Dhaka Steel,100
+1195,DS- Aziz SS 18'' Hari,410,0,Dhaka Steel,100
+1196,DS- Aziz SS 14'' Korai,320,0,Dhaka Steel,100
+1197,DS- Aziz SS 15'' Korai,340,0,Dhaka Steel,100
+1198,DS- Aziz SS 16'' Korai,360,0,Dhaka Steel,100
+1199,DS- Aziz SS 17'' Korai,380,0,Dhaka Steel,100
+1200,DS- Aziz SS 18'' Korai,400,0,Dhaka Steel,100
+1201,"DS- SS Mota Hanger 6""",210,0,Dhaka Steel,100
+1202,DS- SS Mota Hanger 7'',220,0,Dhaka Steel,100
+1203,DS- SS Mota Hanger 8'',230,0,Dhaka Steel,100
+1204,DS- Dami Tower ,260,0,Dhaka Steel,100
+1205,DS- Kurani ,40,30,Dhaka Steel,100
+1206,DS- Holud Fish Chillar,30,21,Dhaka Steel,100
+1207,DS- Big Pech Chakni,340,305,Dhaka Steel,100
+1208,DS- Kad Khunti,170,145,Dhaka Steel,100
+1209,DS- Rapping Paper- 100,500,145,Dhaka Steel,100
+1210,DS- Big Pipe Khunti,70,0,Dhaka Steel,100
+1211,DS- Small Pipe Khunti,40,0,Dhaka Steel,100
+1212,DS- Pipe Dabu ,60,0,Dhaka Steel,100
+1213,DS- Plastic Jazra ,60,0,Dhaka Steel,100
+1214,DS- Big Daba,60,0,Dhaka Steel,100
+1215,DS- Small Daba,50,0,Dhaka Steel,100
+1216,DS- Plastic Body Cha Chakni,160,0,Dhaka Steel,100
+1217,DS- Big Jonota Cha Chakni,200,0,Dhaka Steel,100
+1218,DS- Small Jonota Cha Chakni,150,0,Dhaka Steel,100
+1219,DS- Big Super Cha Chakni,240,200,Dhaka Steel,100
+1220,DS- Box Super Cha Chakni,270,215,Dhaka Steel,100
+1221,J- 4G Lunch Box,70,0,Jaime Plastic,100
+1222,J- Nova Lunch Box,75,0,Jaime Plastic,100
+1223,J- Chili Carrier,85,0,Jaime Plastic,100
+1224,J- Lili Carrier,80,0,Jaime Plastic,100
+1225,J- Vhorta Bati,100,90,Jaime Plastic,100
+1226,J- 12 No Cha Chakni,160,125,Jaime Plastic,100
+1227,J- 9 No Cha Chakni,85,750,Jaime Plastic,100
+1228,J- Diamond Box,110,1000,Jaime Plastic,100
+1229,J- 11 Hook Hanger,290,2750,Jaime Plastic,100
+1230,J- 9 Hook Hanger,230,2100,Jaime Plastic,100
+1231,J- 1.5L Bowl,190,175,Jaime Plastic,100
+1232,J- Dust Pan Belcha,180,0,Jaime Plastic,100
+1233,J- Firi Mora,80,0,Jaime Plastic,100
+1234,J- 3 Star Box,80,0,Jaime Plastic,100
+1235,J- 4 Star Box,90,750,Jaime Plastic,100
+1236,J- 5Star Box,125,1100,Jaime Plastic,100
+1237,J- Ruti Box ,55,0,Jaime Plastic,100
+1238,J- Big Roj Mosolla Dani,100,0,Jaime Plastic,100
+1239,J- Small Roj Mosolla Dani,85,0,Jaime Plastic,100
+1240,J- Nova Mosolla Dani,70,0,Jaime Plastic,100
+1241,J- 1 No Busket,57,0,Jaime Plastic,100
+1242,J- 2 No Busket,37,320,Jaime Plastic,100
+1243,J- Square Pen Stand,180,320,Jaime Plastic,100
+1244,J- Jaime Busket,22,22,Jaime Plastic,100
+1245,J- Digital Pen Stand,35,0,Jaime Plastic,100
+1246,J- 1 No deluxe Rehal,60,0,Jaime Plastic,100
+1247,J- 2 No deluxe Rehal,420,0,Jaime Plastic,100
+1248,J- Kalo Rehal,360,0,Jaime Plastic,100
+1249,J- 1 No Alif Rehal,480,3900,Jaime Plastic,100
+1250,J- Nurani Rehal,190,3900,Jaime Plastic,100
+1251,J- Erani Rehal,900,0,Jaime Plastic,100
+1252,J- Turkey Rehal,0,0,Jaime Plastic,100
+1253,J- Super Rehal,480,0,Jaime Plastic,100
+1254,J- 20L Bowl,0,0,Jaime Plastic,100
+1255,J- 9L Bowl,0,0,Jaime Plastic,100
+1256,J- 10L Bowl,0,0,Jaime Plastic,100
+1257,J- Multi Gol Mosolla Dani,60,0,Jaime Plastic,100
+1258,J- Sifat 5 Bati Print Set,200,185,Jaime Plastic,100
+1259,J- Sifat 3 Bati Print Set,80,75,Jaime Plastic,100
+1260,J- Dal Bati,140,120,Jaime Plastic,100
+1261,J- Vegi/ Sobji Bati,180,160,Jaime Plastic,100
+1262,J- Rainbow Shirt Hanger,270,250,Jaime Plastic,100
+1263,J- Piller / Chiller,180,165,Jaime Plastic,100
+1264,AM- Lehome Stand,50,0,Al Madina Plastic,100
+1265,AM- Victoriya Stand,50,0,Al Madina Plastic,100
+1266,AM- Lili Stand,70,0,Al Madina Plastic,100
+1267,AM- Powder Case,55,0,Al Madina Plastic,100
+1268,AM- Big Kapor Brush,320,0,Al Madina Plastic,100
+1269,AM- Big Ice Tray,80,0,Al Madina Plastic,100
+1270,AM- Everest Ice Tray,70,0,Al Madina Plastic,100
+1271,AM- Saljun Ice Tray,70,0,Al Madina Plastic,100
+1272,AM- 3P Ice Tray,80,0,Al Madina Plastic,100
+1273,AM- Kaizing Ice Maker,70,0,Al Madina Plastic,100
+1274,AM- Lolipop Ice Maker,70,0,Al Madina Plastic,100
+1275,AM- Venilla Ice Maker,70,0,Al Madina Plastic,100
+1276,AM- Popsi Ice Maker,65,0,Al Madina Plastic,100
+1277,AM- Oval Ice Maker,65,0,Al Madina Plastic,100
+1278,AM- Big Pani Chakni,210,0,Al Madina Plastic,100
+1279,AM- Small Pani Chakni,130,0,Al Madina Plastic,100
+1280,AM- Big Kol Mukh,80,0,Al Madina Plastic,100
+1281,AM- Joba Ice Maker,50,0,Al Madina Plastic,100
+1282,AM- China Tiffine Box,240,0,Al Madina Plastic,100
+1283,AM- Funny Tiffine Box,360,0,Al Madina Plastic,100
+1284,AM- Slim Tiffine Box,840,0,Al Madina Plastic,100
+1285,AM- Fresh Mosolla Dani,80,0,Al Madina Plastic,100
+1286,AM- Fresh Ruti Box,65,0,Al Madina Plastic,100
+1287,AM- Nan Fing Mosolla Dani,70,0,Al Madina Plastic,100
+1288,AM- Square Mosolla ,85,0,Al Madina Plastic,100
+1289,AM- Tangupen Gol Mosolla ,80,0,Al Madina Plastic,100
+1290,"BM- 10"" Coup Plate Queen",700,62,Bengal Melamine,100
+1291,"BM- 10"" Soup Plate Queen",720,64,Bengal Melamine,100
+1292,"BM- 9"" Soup Plate Queen",48,0,Bengal Melamine,100
+1293,"BM- 10"" Bowl Queen",84,0,Bengal Melamine,100
+1294,"BM- 8.5"" Bowl Queen",62,0,Bengal Melamine,100
+1295,"BM- 7.5"" Bowl Queen",44,0,Bengal Melamine,100
+1296,"BM- 6"" Bowl Queen",36,0,Bengal Melamine,100
+1297,"BM- 3.5"" Square Bowl Queen",16,0,Bengal Melamine,100
+1298,"BM- 4.5"" Square Bowl Queen",23,0,Bengal Melamine,100
+1299,BM- Finni Bati Queen,16,0,Bengal Melamine,100
+1300,BM- Ring Bati Queen,23,0,Bengal Melamine,100
+1301,BM- Cha Cup Queen,25,0,Bengal Melamine,100
+1302,BM- Chamos Medium,130,0,Bengal Melamine,100
+1303,BM- Lobon Dani Salt Jar,47,0,Bengal Melamine,100
+1304,"BM- 18"" Tray",352,0,Bengal Melamine,100
+1305,"BM- 15"" Tray",335,0,Bengal Melamine,100
+1306,"BM- 10"" Bowl",135,0,Bengal Melamine,100
+1307,"BM- 8.5"" Bowl",96,0,Bengal Melamine,100
+1308,"BM- 7.5"" Bowl",83,0,Bengal Melamine,100
+1309,"BM- 6"" Bowl",61,0,Bengal Melamine,100
+1310,"BM- 10"" Coup Plate",95,0,Bengal Melamine,100
+1311,"BM- 10"" Soup Plate",95,0,Bengal Melamine,100
+1312,"BM- 9"" Soup Plate",77,0,Bengal Melamine,100
+1313,"BM- 11"" Round Bati (Sell Rate)",185,0,Bengal Melamine,100
+1314,"BM- 13"" Round Bati",245,0,Bengal Melamine,100
+1315,BM- Flat Lid,20,0,Bengal Melamine,100
+1316,BM- 4.75 Finni Bati,35,0,Bengal Melamine,100
+1317,BM- Fence Mug,76,0,Bengal Melamine,100
+1318,"BM- 4"" Round Mug",92,0,Bengal Melamine,100
+1319,"BM- 5"" Premium Mug",92,0,Bengal Melamine,100
+1320,"BM- 11"" Eligent Plate",145,0,Bengal Melamine,100
+1321,"BM- 7"" Spring Bati",140,0,Bengal Melamine,100
+1322,"BM- 6"" Spring Bati",101,0,Bengal Melamine,100
+1323,"BM- 5"" Spring Bati",79,0,Bengal Melamine,100
+1324,"BM- 4.5"" Spring Bati",65,0,Bengal Melamine,100
+1325,BM- 4P Bati Set,372,0,Bengal Melamine,100
+1326,"BM- 3"" Two Color Cup",41,0,Bengal Melamine,100
+1327,"BM- 3"" Square Cup",43,0,Bengal Melamine,100
+1328,BM- Bengal Glass,57,0,Bengal Melamine,100
+1329,"RM- 10"" Soup Plate",95,0,RFL Melamine,100
+1330,"RM- 10"" Coup Plate",95,0,RFL Melamine,100
+1331,"RM- 9"" Soup Plate",78,0,RFL Melamine,100
+1332,"RM- 11"" Crazy Plate",145,0,RFL Melamine,100
+1333,"RM- 10.3"" Crazy Plate",125,0,RFL Melamine,100
+1334,"RM- 8"" Crazy Plate",75,0,RFL Melamine,100
+1335,"RM- 10"" Premium Plate",105,0,RFL Melamine,100
+1336,"RM- 3"" Square Cup",42,0,RFL Melamine,100
+1337,"RM- 3"" Round Cup",40,0,RFL Melamine,100
+1338,"RM- 10"" Bowl",145,0,RFL Melamine,100
+1339,"RM- 8.5"" Bowl",98,0,RFL Melamine,100
+1340,"RM- 7.5"" Bowl",85,0,RFL Melamine,100
+1341,"RM- 6"" Bowl",60,0,RFL Melamine,100
+1342,RM- Glass,58,0,RFL Melamine,100
+1343,RM- Small Bubli Mug,75,0,RFL Melamine,100
+1344,RM- Big Bubli Mug,113,0,RFL Melamine,100
+1345,"RM- 5"" Elite Mug",88,0,RFL Melamine,100
+1346,"RM- 4"" Round Mug",90,0,RFL Melamine,100
+1347,"RM- 4.5"" Spring Bowl",64,0,RFL Melamine,100
+1348,"RM- 5"" Spring Bowl",78,0,RFL Melamine,100
+1349,"RM- 6"" Spring Bowl",100,0,RFL Melamine,100
+1350,"RM- 7"" Spring Bowl",139,0,RFL Melamine,100
+1351,RM- Big Lobon Dani Salt Jar,55,0,RFL Melamine,100
+1352,RM- 4.75 Finni Bati,34,0,RFL Melamine,100
+1353,RM- Flat Lid 6P,69,0,RFL Melamine,100
+1354,RM- Tea- Chamos,125,0,RFL Melamine,100
+1355,"RM- 4.5"" Square Bati",69,0,RFL Melamine,100
+1356,"RM- 5"" Square Bati",88,0,RFL Melamine,100
+1357,"RM- 6"" Square Bati",114,0,RFL Melamine,100
+1358,"RM- 4"" Carry Bowl",47,0,RFL Melamine,100
+1359,"RM- 7"" Carry Bowl",138,0,RFL Melamine,100
+1360,"RM- 5"" Carry Bowl",80,0,RFL Melamine,100
+1361,"RM- 6"" Carry Bowl",84,0,RFL Melamine,100
+1362,"RM- 10"" Rice Bowl",144,0,RFL Melamine,100
+1363,"RM- 11"" Rice Bowl",200,0,RFL Melamine,100
+1364,"RM- 12"" Rice Bowl",220,0,RFL Melamine,100
+1365,"RM- 13"" Rice Bowl",250,0,RFL Melamine,100
+1366,"RM- 8"" Flower Bowl",118,0,RFL Melamine,100
+1367,"RM- 3.5"" Elite Mug",69,0,RFL Melamine,100
+1368,"RM- 8"" Football",99,0,RFL Melamine,100
+1369,"RM- 6.5"" Winter Bowl",77,0,RFL Melamine,100
+1370,"RM- 6"" Servicing Bowl",69,0,RFL Melamine,100
+1371,"RM- 8.5"" Servicing Bowl",112,0,RFL Melamine,100
+1372,"RM- 12"" Star Bowl",169,0,RFL Melamine,100
+1373,"RM- 10"" Star Bowl",144,0,RFL Melamine,100
+1374,"RM- 9"" Star Bowl",107,0,RFL Melamine,100
+1375,"RM- 6.9"" Star Bowl",69,0,RFL Melamine,100
+1376,"RM- 5"" Star Bowl",53,0,RFL Melamine,100
+1377,PJ- 2 No Sathi Boyom,160,0,Plastic Jar,100
+1378,PJ- 3 No Sathi Boyom,180,0,Plastic Jar,100
+1379,PJ- Chanachur Boyom,350,0,Plastic Jar,100
+1380,PJ- 36P Boyom,240,0,Plastic Jar,100
+1381,PJ- 25P Boyom,240,0,Plastic Jar,100
+1382,PJ- Medium Plain Square Boyom,240,0,Plastic Jar,100
+1383,PJ- Big Plain Square Boyom,350,0,Plastic Jar,100
+1384,PJ- 1Kg Ghee Boyom,220,0,Plastic Jar,100
+1385,PJ- 500g Ghee Boyom,120,0,Plastic Jar,100
+1386,PJ- 250g Ghee Boyom,170,0,Plastic Jar,100
+1387,PJ- Big Pinat Boyom,350,0,Plastic Jar,100
+1388,PJ- Small Pinat Boyom,180,0,Plastic Jar,100
+1389,PJ- Big Rupok Boyom,200,0,Plastic Jar,100
+1390,PJ- Small Rupok Boyom,180,0,Plastic Jar,100
+1391,PJ- Small Pech/Gol Boyom,170,0,Plastic Jar,100
+1392,PJ- Medium Pech/Gol Boyom,250,0,Plastic Jar,100
+1393,PJ- BR-1 Boyom,320,350,Plastic Jar,100
+1394,PJ- BR-2 Boyom,260,300,Plastic Jar,100
+1395,W- 3 Layer Tiffin Carrier,810,0,Winner,100
+1396,W- 2 Layer Tiffin Carrier,570,0,Winner,100
+1397,W- 2.3L Heater Kettle ,1000,0,Winner,100
+1398,W- 1.8L Heater Kettle ,740,0,Winner,100
+1399,W- 1.5L Heater Kettle ,670,0,Winner,100
+1400,D- 2.5L Heater Kettle,950,0,Diamond Plastic,100
+1401,D- 2.3L Heater Kettle,950,0,Diamond Plastic,100
+1402,R- 1360ml Lock & Fresh Sq Container,95,0,Premium,100
+1403,R- 380ml Lock & Fresh Sq Container,40,0,Premium,100
+1404,R- 750ml Lock & Fresh Sq Container,65,0,Premium,100
+1405,R- Lock & Fresh Sq Container 3P Set,140,0,Premium,100
+1406,R- Sysco Sq Tiffin 3 Bati,170,0,Premium,100
+1407,R- Sysco Sq Tiffin 2 Bati,135,0,Premium,100
+1408,R- SS Double Cola Bottle - Print,475,0,Premium,100
+1409,R- SS Premium Flask 500ml,475,0,Premium,100
+1410,R- SS Premium Flask 350ml,400,0,Premium,100
+1411,R- SS Single Cola Bottle,260,0,Premium,100
+1412,R- Magic Clean Bucket,1480,0,Premium,100
+1413,R- Easy Dust Pan Belcha- Small,38,0,Premium,100
+1414,R- Easy Dust Pan Belcha- Big,40,0,Premium,100
+1415,R- 3L Fijar Bottle SS,148,0,Popular,100
+1416,R- 2L Fijar Bottle PP,132,0,Popular,100
+1417,R- 1L Fijar Bottle SS,130,0,Popular,100
+1418,R- 1L Fijar Bottle PP,85,0,Popular,100
+1419,R- Lili Bottle,65,0,Popular,100
+1420,R- Note Book Bottle,105,0,Prestige,100
+1421,DB- SS Big Pepsi Bottle,75,70,Dhaka Bottle,100
+1422,DB- SS Medium Pepsi Bottle,70,60,Dhaka Bottle,100
+1423,DB- SS Small Pepsi Bottle,65,55,Dhaka Bottle,100
+1424,DB- PP Small Pepsi Bottle,50,35,Dhaka Bottle,100
+1425,DB- PP Medium Pepsi Bottle,55,40,Dhaka Bottle,100
+1426,DB- PP Big Pepsi Bottle,60,45,Dhaka Bottle,100
+1427,DB- SS Big Pipe Bottle,70,55,Dhaka Bottle,100
+1428,DB- SS Small Pipe Bottle,60,50,Dhaka Bottle,100
+1429,DB- PP Small Pipe Bottle,45,35,Dhaka Bottle,100
+1430,DB- PP Big Pipe Bottle,50,40,Dhaka Bottle,100
+1431,DB- Big Tiktok,45,35,Dhaka Bottle,100
+1432,R- 30cm Net Jali,44,0,Prestige,100
+1433,R- 28cm Net Jali,38,0,Prestige,100
+1434,R- 26cm Net Jali,35,0,Prestige,100
+1435,R- 24cm Net Jali,26,0,Prestige,100
+1436,R- 18cm Net Jali,18,0,Prestige,100
+1437,R- 40cm Twin Jali,80,0,Prestige,100
+1438,R- 35cm Twin Jali,76,0,Prestige,100
+1439,R- 30cm Twin Jali,56,0,Prestige,100
+1440,R- Big Minar Rehal,118,0,Prestige,100
+1441,R- Small Minar Rehal,111,0,Prestige,100
+1442,R- Tel Pakha,20,0,Tel,100
+1443,W- Winner Pakha,17,0,Winner,100
+1444,R- Easy Belcha Dust Pan,38,0,Premium,100
+1445,W- Utility Brush,48,0,Winner,100
+1446,W- 2P Tar Majoni,18,0,Winner,100
+1447,W- 28cm Basing Brush,50,0,Winner,100
+1448,W- 26cm Basing Brush,42,0,Winner,100
+1449,W- 160ml Chamos Fitter,80,0,Winner,100
+1450,W- Silicon Fitter,180,0,Winner,100
+1451,"W- 8"" Chakku Knief ",135,0,Winner,100
+1452,"W- 5"" Chakku Knief ",100,0,Winner,100
+1453,"W- 6"" Chakku Knief ",100,0,Winner,100
+1454,"W- 4.5"" Chakku Knief ",48,0,Winner,100
+1455,M- Commode Brush With Stand,75,0,Matador,100
+1456,M- Commode Brush Without Stand,70,0,Matador,100
+1457,M- MRP-105 Toilet Brush,55,105,Matador,100
+1458,M- MRP-90 Toilet Brush,45,90,Matador,100
+1459,M- MRP-85 Toilet Brush,38,85,Matador,100
+1460,M- Duster Brush,55,0,Matador,100
+1461,M- Basing Brush,45,0,Matador,100
+1462,M- GP-1 Floor Brush,60,0,Matador,100
+1463,M- GP-2 Floor Brush,35,0,Matador,100
+1464,M- GP-3 Floor Brush,35,0,Matador,100
+1465,M- Mota Pata Majoni,220,0,Matador,100
+1466,M- Patla Pata Majoni,160,0,Matador,100
+1467,R- Pet Salt Jar,22,0,Popular,100
+1468,R- 4000ml Trim Container,145,0,Prado,100
+1469,R- Power Tool Green,72,0,Prominent,100
+1470,R- Two Part Tiffin Box,95,0,Prominent,100
+1471,R- Beauty Box,130,0,Prominent,100
+1472,R- Air Tight Box,240,0,Popular,100
+1473,R- 450ml Paris Mug -Print,48,0,Prado,100
+1474,R-Juicy Mug,70,0,Prado,100
+1475,R-Milk Carret,345,0,Prominent,100
+1476,R-4D Mimi Organizer,75,0,Pacific,100
+1477,DS- Sagor Table Chamos,180,0,Dhaka Steel,100
+1478,DS- Sagor Dessert Chamos,120,0,Dhaka Steel,100
+1479,R- Super Bucket (Balti) 22L,195,0,Prestige,100
+1480,R- Loose Container - 25L,350,0,Popular,100
+1481,R- 10L Multi Container Set,375,0,Premium,100
+1482,R- Moving Busket Small,190,0,Prestige,100
+1483,R- Noddles Chakni Jali,66,0,Prestige,100
+1484,R- 2.75 Jug,75,0,Premium,100
+1485,R- Medium Fancy Mop,300,0,Premium,100
+1486,R- SS Premium Mop,330,0,Premium,100
+1487,R- MS Premium Mop,320,0,Premium,100
+1488,R- SS Ultra Mop,285,0,Premium,100
+1489,R- SS Twist Mop,315,0,Premium,100
+1490,W- Bottle Brush 1No,30,0,Winner,100
+1491,W- Bottle Brush Foam 2No,15,0,Winner,100
+1492,P- Partex Big Busket,320,0,Partex,100
+1493,P- Partex Small Busket,230,0,Partex,100
+1494,BP-Round Hanger,95,0,Bikrampur Plastic,100
